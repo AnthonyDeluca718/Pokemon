@@ -1,0 +1,77 @@
+|choice|move bodyslam|switch 4
+|choice|move bodyslam|switch 2
+|choice|move counter|switch 2
+|choice|move bodyslam|move leechseed
+|choice|switch 3|move leechseed
+|choice|switch 3|switch 4
+|choice|move bodyslam|move thunderwave
+|choice|move bodyslam|switch 4
+|choice|move bodyslam|move leechseed
+|choice|switch 3|switch 4
+|choice|switch 4|move thunderbolt
+|choice|move seismictoss|switch 4
+|choice|move seismictoss|move leechseed
+|choice|switch 4|move leechseed
+|choice|switch 3|move calmmind
+|choice|move bodyslam|move leechseed
+|choice|switch 3|switch 2
+|choice|switch 5|move earthquake
+|choice|move surf|move toxic
+|choice|switch 4|switch 4
+|choice|move aromatherapy|move toxic
+|choice|move seismictoss|move toxic
+|choice|move seismictoss|move thunderbolt
+|choice|switch 6|switch 2
+|choice|switch 5|move calmmind
+|choice|move meteormash|move leechseed
+|choice|switch 6|move calmmind
+|choice|move seismictoss|move leechseed
+|choice|switch 6|move calmmind
+|choice|move explosion|move leechseed
+|choice|switch 3|switch 4
+|choice|move counter|move explosion
+|choice|switch 5|switch 2
+|choice|switch 6|move toxic
+|choice|move seismictoss|move thunderbolt
+|choice|move softboiled|switch 5
+|choice|switch 4|move curse
+|choice|move haze|move earthquake
+|choice|move wish|switch 3
+|choice|switch 4|move toxic
+|choice|move seismictoss|switch 3
+|choice|switch 4|switch 5
+|choice|switch 4|move toxic
+|choice|move seismictoss|switch 3
+|choice|move seismictoss|move icebeam
+|choice|switch 6|move recover
+|choice|switch 6|move toxic
+|choice|switch 6|move icebeam
+|choice|switch 6|switch 3
+|choice|switch 6|switch 3
+|choice|switch 6|move toxic
+|choice|move seismictoss|move icebeam
+|choice|switch 6|move icebeam
+|choice|move curse|switch 5
+|choice|move earthquake|switch 3
+|choice|move hiddenpower|move toxic
+|choice|move curse|move hiddenpower
+|choice|switch 6|switch 3
+|choice|move aromatherapy|move curse
+|choice|move counter|move earthquake
+|choice||switch 6
+|choice|switch 2|move dragondance
+|choice|move rockslide|move dragondance
+|choice|move rockslide|move dragondance
+|choice|switch 4|move rockslide
+|choice|move haze|move hiddenpower
+|choice|switch 4|
+|choice|move hiddenpower|move rockslide
+|choice|switch 2|
+|choice|move counter|move dragondance
+|choice|move counter|move hiddenpower
+|choice|switch 6|
+|choice|move hiddenpower|move hiddenpower
+
+===Pokemon===
+Snorlax (bodyslam counter),Metagross (meteormash explosion),Blissey (seismictoss aromatherapy softboiled counter),Vaporeon (surf haze wish),Swampert (curse earthquake hiddenpower),Salamence (rockslide hiddenpower)
+Zapdos (thunderwave thunderbolt toxic hiddenpower),Celebi (leechseed calmmind),Metagross (earthquake toxic explosion),Swampert (curse earthquake),Porygon2 (toxic icebeam recover),Salamence (dragondance rockslide hiddenpower)
