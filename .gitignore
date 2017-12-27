@@ -1,20 +1,3 @@
-node_modules
-tmp
-.idea
-.editorconfig
-
-npm-debug.log
-uploads/*
-
-plugins/akismet/
-plugins/hello.php
-plugins/fakerpress
-
-themes/*/
-!themes/akc/
-
-vendor/
-
-breed_images/
+PokemonConversion/ADV
 
 .DS_Store
