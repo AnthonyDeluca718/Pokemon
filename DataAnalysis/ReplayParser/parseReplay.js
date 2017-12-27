@@ -105,10 +105,14 @@ function parseReplay(html) {
 
   return {
     winner,
-    p1: p1Name,
-    p2: p2Name,
-    pokes1,
-    pokes2
+    p1: {
+      name: p1Name,
+      pokes: pokes1
+    },
+    p2: {
+      name: p2Name,
+      pokes: pokes2
+    }
   }
 }
 

@@ -6,6 +6,6 @@ let replays = [
   'http://replay.pokemonshowdown.com/smogtours-gen3ou-234679'
 ]
 
-const writeResults = require('./writeResults')
+const writeResults = require('../writeResults')
 
 writeResults(replays, 'outfile')

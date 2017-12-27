@@ -1,5 +1,5 @@
 const fs = require('fs')
-const parseReplay = require('./parseReplay')
+const parseReplay = require('../parseReplay')
 const path = require('path')
 
 console.log(path.resolve(__dirname, 'test.html'))
