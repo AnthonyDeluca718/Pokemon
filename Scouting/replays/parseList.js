@@ -4,7 +4,6 @@ var format = "[" + process.argv[3] + "]";
 var fs = require('fs');
 var outfile = fs.createWriteStream("outfile");
 
-
 var arr = JSON.parse(arrStr);
 var output = [];
 

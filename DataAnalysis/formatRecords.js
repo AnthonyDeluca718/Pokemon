@@ -1,10 +1,12 @@
 const axios = require('axios')
 const fs = require('fs')
+const path = require('path')
 const readline = require('readline')
 const parseReplay = require('./ReplayParser/parseReplay')
 
-const inFile = './test' // add input file here
+const inFile = './ADV-Analysis/spl7' // add input file here
 const startingIdx = 0 // initial index
+const outFile = path.resolve(__dirname, 'spl7-data.json') //add outfile here
 
 let data = []
 let output = []
@@ -43,5 +45,5 @@ lineReader.on('close', () => {
       output.push(info)
     })
   }))
-  .then(() => console.log(JSON.stringify(output, null, 2)))
+  .then(() => fs.writeFileSync(outFile, JSON.stringify(output, null, 2)))
 })

@@ -130,10 +130,8 @@ function parseReplay(html, name) {
 
   if (p1Name.toUpperCase() === name.toUpperCase()) {
     return(`${winner} wins.` + "\n" + dispPokes1.join(", ") + "\n" + "--- VS" + "\n" + dispPokes2.join(", ") + "\n" )
-  } else if (p2Name.toUpperCase() === name.toUpperCase()) {
-    return(`${winner} wins.` + "\n" + dispPokes2.join(", ") + "\n" + "--- VS" + "\n" + dispPokes1.join(", ") + "\n" )
   } else {
-    return "error";
+    return(`${winner} wins.` + "\n" + dispPokes2.join(", ") + "\n" + "--- VS" + "\n" + dispPokes1.join(", ") + "\n" )
   }
 }
 
