@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
-const records = require('./spl7-data.json')
-const outfile = path.resolve(__dirname, 'outfile')
+const records = require('./callous-invite.json')
+const outfile = path.resolve(__dirname, 'callous-invite-teams')
 
 function format (data) {
   const pokes1 = data.p1.pokes.map(poke => poke.name).join(' ')

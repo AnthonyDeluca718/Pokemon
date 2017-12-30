@@ -1,0 +1,1262 @@
+const groupings = {
+  'Skarm_Mag': 'TSS',
+  'Physical_Mag': 'Spikeless_Offense',
+  'TSS_Skarm': 'TSS',
+  'Mixed_Offense': 'Spikeless_Offense',
+  'Spikeless_Balance': 'Other',
+  'TSS_Forre': 'TSS',
+  'Special_Offense': 'Spikeless_Offense',
+  'Jolteon_Skarm': 'TSS',
+  'Physical_Offense': 'Spikeless_Offense',
+  'Spikes_Offense': 'Other',
+  'Misc': 'Other',
+  'Incomplete': 'Ignore'
+}
+
+77-p1
+Suicune Jirachi Porygon2 Regice
+Main: Special_Offense
+
+77-p2
+Forretress Celebi Aerodactyl Tyranitar Suicune Flygon
+Main: TSS_Forre
+
+103-p1
+Vaporeon Regice Metagross Magneton Salamence Tyranitar
+Main: Physical_Mag
+
+103-p2
+Jolteon Skarmory Dugtrio Swampert Tyranitar Gengar
+Main: Jolteon_Skarm
+
+64-p1
+Forretress Suicune Gengar Celebi Blissey Tyranitar
+Main: TSS_Forre
+
+64-p2
+Metagross Snorlax Magneton Tyranitar Salamence Gyarados
+Main: Physical_Mag
+
+74-p1
+Tyranitar Skarmory Blissey Metagross Gengar Starmie
+Main: TSS_Skarm
+
+74-p2
+Metagross Celebi Magneton Dugtrio Snorlax Salamence
+Main: Physical_Mag
+
+52-p1
+Gengar Cloyster Salamence Zapdos Metagross Tyranitar
+Main: Spikes_Offense
+
+52-p2
+Swampert Celebi Zapdos Forretress Gengar Tyranitar
+Main: TSS_Forre
+
+72-p1
+Metagross Magneton Cloyster Tyranitar Salamence Snorlax
+Main: Physical_Mag
+
+72-p2
+Tyranitar Skarmory Gengar Aerodactyl Swampert Celebi
+Main: TSS_Skarm
+
+78-p1
+Metagross Snorlax Tyranitar Magneton Gyarados Salamence
+Main: Physical_Mag
+
+78-p2
+Cloyster Metagross Gengar Swampert Blissey Salamence
+Main: Spikes_Offense
+
+85-p1
+Jolteon Snorlax Tyranitar Gyarados Umbreon Swampert
+Main: Spikeless_Balance
+
+85-p2
+Weezing Jirachi Tyranitar Cloyster Aerodactyl Suicune
+Main: Spikes_Offense
+
+88-p1
+Skarmory Dugtrio Claydol Lapras Jirachi Blissey
+Main: Misc
+
+88-p2
+Skarmory Metagross Tyranitar Zapdos Jolteon Starmie
+Main: Mixed_Offense
+
+55-p1
+Snorlax Skarmory Suicune Blissey Claydol Magneton
+Main: Skarm_Mag
+
+55-p2
+Metagross Salamence Regice Swampert Tyranitar Celebi
+Main: Mixed_Offense
+
+79-p1
+Tyranitar Forretress Blissey Gengar Celebi Swampert
+Main: TSS_Forre
+
+79-p2
+Swampert Starmie Magneton Heracross Gengar Salamence
+Main: Physical_Mag
+
+98-p1
+Celebi Snorlax Magneton Umbreon Dugtrio Heracross
+Main: Physical_Mag
+
+98-p2
+Zapdos Regice Metagross Tyranitar Swampert Salamence
+Main: Mixed_Offense
+
+73-p1
+Skarmory Gengar Swampert Tyranitar Starmie Blissey
+Main: TSS_Skarm
+
+73-p2
+Tyranitar Porygon2 Celebi Jirachi Dugtrio Suicune
+Main: Special_Offense
+
+68-p1
+Metagross Snorlax Salamence Tyranitar Swampert Aerodactyl
+Main: Physical_Offense
+
+68-p2
+Tyranitar Zapdos Metagross Magneton
+Main: Mixed_Offense
+
+66-p1
+Jolteon Skarmory Swampert Gengar Dugtrio Jirachi
+Main: Jolteon_Skarm
+
+66-p2
+Skarmory Blissey Tyranitar Salamence Metagross Dugtrio
+Main: TSS_Skarm
+
+104-p1
+Starmie Celebi Forretress Tyranitar Swampert Gengar
+Main: TSS_Forre
+
+104-p2
+Skarmory Snorlax Tyranitar Swampert Starmie Magneton
+Main: Skarm_Mag
+
+97-p1
+Tyranitar Snorlax Magneton Salamence Gyarados Metagross
+Main: Physical_Mag
+
+97-p2
+Zapdos Suicune Weezing Dugtrio Claydol Jirachi
+Main: Spikeless_Balance
+
+106-p1
+Venusaur Magneton Aerodactyl Cloyster Swampert Tyranitar
+Main: Spikes_Offense
+
+106-p2
+Tyranitar Skarmory Dugtrio Swampert Zapdos Metagross
+Main: TSS_Skarm
+
+99-p1
+Gengar Suicune Forretress Blissey Salamence Rhydon
+Main: Misc
+
+99-p2
+Tyranitar Celebi Zapdos Skarmory Aerodactyl
+Main: TSS_Skarm
+
+95-p1
+Forretress Blissey Swampert Tyranitar Skarmory Dugtrio
+Main: TSS_Forre
+
+95-p2
+Skarmory Blissey Swampert Gengar Tyranitar
+Main: TSS_Skarm
+
+50-p1
+Suicune Celebi Dugtrio Swampert Jirachi Tyranitar
+Main: Special_Offense
+
+50-p2
+Tyranitar Celebi Milotic Forretress Aerodactyl Dugtrio
+Main: TSS_Forre
+
+56-p1
+Tyranitar Zapdos Gengar Flygon Aerodactyl Swampert
+Main: Mixed_Offense
+
+56-p2
+Forretress Milotic Blissey Swampert Tyranitar Gengar
+Main: TSS_Forre
+
+54-p1
+Tyranitar Zapdos Skarmory Celebi Aerodactyl Swampert
+Main: TSS_Skarm
+
+54-p2
+Zapdos Regice Gengar Dugtrio Starmie Jirachi
+Main: Special_Offense
+
+108-p1
+Starmie Skarmory Celebi Magneton Dugtrio Blissey
+Main: Skarm_Mag
+
+108-p2
+Metagross Magneton Gyarados Snorlax Heracross Porygon2
+Main: Physical_Mag
+
+101-p1
+Metagross Tyranitar Blissey Gengar Skarmory Starmie
+Main: TSS_Skarm
+
+101-p2
+Skarmory Magneton Swampert Tyranitar Jolteon Aerodactyl
+Main: Skarm_Mag
+
+118-p1
+Heracross
+Main: Incomplete
+
+118-p2
+Forretress Gengar Swampert Milotic Tyranitar Blissey
+Main: TSS_Forre
+
+92-p1
+Venusaur Skarmory Gengar Swampert Tyranitar Lapras
+Main: TSS_Skarm
+
+92-p2
+Celebi Tyranitar Metagross Aerodactyl Cloyster Swampert
+Main: Spikes_Offense
+
+100-p1
+Metagross Celebi Dugtrio Salamence Magneton Snorlax
+Main: Physical_Mag
+
+100-p2
+Celebi Tyranitar Swampert Magneton Aerodactyl Skarmory
+Main: Skarm_Mag
+
+53-p1
+Tyranitar Gengar Blissey Swampert Starmie Dugtrio
+Main: Spikeless_Balance
+
+53-p2
+Skarmory Tyranitar Jolteon Aerodactyl Swampert Magneton
+Main: Skarm_Mag
+
+75-p1
+Zapdos Tyranitar Jirachi Skarmory Gengar Flygon
+Main: Mixed_Offense
+
+75-p2
+Jynx Metagross Gengar Claydol Suicune Celebi
+Main: Special_Offense
+
+58-p1
+Snorlax Salamence Tyranitar Swampert Camerupt Aerodactyl
+Main: Physical_Offense
+
+58-p2
+Celebi Skarmory Swampert Tyranitar Aerodactyl Magneton
+Main: Skarm_Mag
+
+112-p1
+Snorlax Flygon Tyranitar Gyarados Aerodactyl Jirachi
+Main: Physical_Offense
+
+112-p2
+Zapdos Snorlax Suicune Claydol Magneton Celebi
+Main: Special_Offense
+
+109-p1
+Celebi Swampert Blissey Starmie Skarmory Dugtrio
+Main: TSS_Skarm
+
+109-p2
+Zapdos Jirachi Tyranitar Gengar Aerodactyl Swampert
+Main: Mixed_Offense
+
+113-p1
+Gengar Snorlax Cloyster Tyranitar Aerodactyl Swampert
+Main: Spikes_Offense
+
+113-p2
+Suicune Jirachi Gengar Salamence Dugtrio Blissey
+Main: Spikeless_Balance
+
+96-p1
+Skarmory Milotic Jolteon Charizard Tyranitar Gengar
+Main: Jolteon_Skarm
+
+96-p2
+Tyranitar Jirachi Zapdos Swampert Aerodactyl Salamence
+Main: Mixed_Offense
+
+134-p1
+Snorlax Cloyster Jirachi Swampert Aerodactyl
+Main: Spikes_Offense
+
+134-p2
+Skarmory Gengar Metagross Aerodactyl Tyranitar Suicune
+Main: TSS_Skarm
+
+93-p1
+Zapdos Gengar Swampert Forretress Venusaur Tyranitar
+Main: TSS_Forre
+
+93-p2
+Snorlax Blissey Magneton Claydol Skarmory Suicune
+Main: Skarm_Mag
+
+111-p1
+Jirachi Tyranitar Blissey Gengar Skarmory Claydol
+Main: TSS_Skarm
+
+111-p2
+Suicune Regice Gengar Celebi Dugtrio Jirachi
+Main: Special_Offense
+
+105-p1
+Tyranitar Claydol Skarmory Salamence Celebi Blissey
+Main: TSS_Skarm
+
+105-p2
+Skarmory Claydol Blissey Suicune Swampert Dugtrio
+Main: TSS_Skarm
+
+110-p1
+Snorlax Celebi Swampert Regice Tyranitar Aerodactyl
+Main: Mixed_Offense
+
+110-p2
+Blissey Gengar Forretress Tyranitar Swampert Dugtrio
+Main: TSS_Forre
+
+107-p1
+Zapdos Forretress Tyranitar Celebi Swampert Aerodactyl
+Main: TSS_Forre
+
+107-p2
+Skarmory Blissey Gengar Swampert Celebi Aerodactyl
+Main: TSS_Skarm
+
+65-p1
+Zapdos Celebi Jirachi Suicune Tyranitar Gyarados
+Main: Mixed_Offense
+
+65-p2
+Suicune Blissey Skarmory Celebi Magneton Claydol
+Main: Skarm_Mag
+
+102-p1
+Heracross Porygon2 Celebi Donphan Moltres Tyranitar
+Main: Mixed_Offense
+
+102-p2
+Jolteon Gengar Dugtrio Skarmory Swampert Tyranitar
+Main: Jolteon_Skarm
+
+59-p1
+Flygon Skarmory Gengar Jolteon Suicune Tyranitar
+Main: Jolteon_Skarm
+
+59-p2
+Heracross Snorlax Metagross Tyranitar Aerodactyl Swampert
+Main: Physical_Mag
+
+116-p1
+Heracross Metagross Celebi Porygon2 Raikou Magneton
+Main: Physical_Mag
+
+116-p2
+Tyranitar Aerodactyl Suicune Swampert Snorlax Jirachi
+Main: Mixed_Offense
+
+123-p1
+Zapdos Metagross Skarmory Magneton Tyranitar
+Main: Skarm_Mag
+
+123-p2
+Tyranitar Forretress Swampert Gengar Blissey Aerodactyl
+Main: TSS_Forre
+
+114-p1
+Snorlax Cloyster Metagross Aerodactyl Gengar Tyranitar
+Main: Spikes_Offense
+
+114-p2
+Salamence Magneton Metagross Gyarados Snorlax
+Main: Physical_Mag
+
+71-p1
+Salamence Magneton Porygon2 Celebi Snorlax Heracross
+Main: Physical_Mag
+
+71-p2
+Skarmory Tyranitar Celebi Aerodactyl Magneton Swampert
+Main: Skarm_Mag
+
+132-p1
+Skarmory Charizard Tyranitar Milotic Gengar Jolteon
+Main: Jolteon_Skarm
+
+132-p2
+Celebi Suicune Raikou
+Main: Special_Offense
+
+131-p1
+Metagross Snorlax Heracross Suicune Salamence
+Main: Physical_Offense
+
+131-p2
+Zapdos Celebi Milotic Magneton Dugtrio Jirachi
+Main: Special_Offense
+
+69-p1
+Skarmory Celebi Gengar Swampert Tyranitar
+Main: TSS_Skarm
+
+69-p2
+Skarmory Gengar Blissey Tyranitar Swampert Metagross
+Main: TSS_Skarm
+
+155-p1
+Forretress Moltres Blissey Swampert
+Main: TSS_Forre
+
+155-p2
+Metagross Blissey Celebi Heracross Salamence
+Main: Physical_Offense
+
+117-p1
+Metagross Magneton Zapdos Snorlax Celebi Aerodactyl
+Main: Physical_Offense
+
+117-p2
+Skarmory Salamence Blissey Dusclops Swampert Magneton
+Main: Skarm_Mag
+
+83-p1
+
+Main:
+
+83-p2
+
+Main:
+
+133-p1
+Aerodactyl Celebi Snorlax Gyarados Metagross Magneton
+Main:
+
+133-p2
+Zapdos Suicune Jirachi Dugtrio Gyarados Celebi
+Main:
+
+119-p1
+Suicune Jirachi Tyranitar Celebi Porygon2 Raikou
+Main:
+
+119-p2
+Venusaur Zapdos Tyranitar Swampert Aerodactyl Forretress
+Main:
+
+115-p1
+Zapdos Suicune Umbreon Dugtrio Tyranitar
+Main:
+
+115-p2
+Tyranitar Blissey Skarmory Gengar Aerodactyl Swampert
+Main:
+
+137-p1
+Cloyster Flygon Magneton Zapdos Tyranitar Swampert
+Main:
+
+137-p2
+Tyranitar Zapdos Skarmory Gengar Jirachi Swampert
+Main:
+
+171-p1
+Forretress Blissey Gengar Dugtrio Swampert Tyranitar
+Main:
+
+171-p2
+Jolteon Dugtrio Milotic Salamence Metagross
+Main:
+
+125-p1
+Snorlax Cloyster Metagross Aerodactyl Gengar Tyranitar
+Main:
+
+125-p2
+Salamence Metagross Claydol Magneton Snorlax Vaporeon
+Main:
+
+62-p1
+Venusaur Starmie Gengar Jirachi Swampert Dugtrio
+Main:
+
+62-p2
+Skarmory Jirachi Weezing Blissey Gengar Dugtrio
+Main:
+
+60-p1
+Forretress Swampert Blissey Gengar Skarmory Dugtrio
+Main:
+
+60-p2
+Skarmory Tyranitar Starmie Snorlax Magneton Swampert
+Main:
+
+160-p1
+Milotic Dugtrio Salamence Celebi Snorlax Magneton
+Main:
+
+160-p2
+Swampert Blissey Celebi Starmie Skarmory Magneton
+Main:
+
+126-p1
+Skarmory Celebi Tyranitar Gengar Swampert Dugtrio
+Main:
+
+126-p2
+Snorlax Houndoom Flygon Forretress Gengar Suicune
+Main:
+
+80-p1
+Tyranitar Gengar Metagross Jolteon Skarmory Swampert
+Main:
+
+80-p2
+Salamence Tyranitar Suicune Cloyster
+Main:
+
+154-p1
+Flygon Skarmory Celebi Tyranitar Magneton Aerodactyl
+Main:
+
+154-p2
+Tyranitar Skarmory Magneton Swampert Salamence
+Main:
+
+156-p1
+Tyranitar Swampert Skarmory Dugtrio Blissey Gengar
+Main:
+
+156-p2
+Salamence Metagross Swampert Tyranitar Regice Aerodactyl
+Main:
+
+142-p1
+Tyranitar Zapdos Skarmory Celebi Aerodactyl Swampert
+Main:
+
+142-p2
+Houndoom Blissey Forretress Salamence Medicham Heracross
+Main:
+
+61-p1
+Jolteon Skarmory Metagross Starmie Salamence Tyranitar
+Main:
+
+61-p2
+Gengar Snorlax Starmie Jirachi Skarmory Tyranitar
+Main:
+
+147-p1
+Zapdos Metagross Porygon2 Raikou Heracross Suicune
+Main:
+
+147-p2
+Tyranitar Skarmory Blissey Gengar Starmie Dugtrio
+Main:
+
+153-p1
+Metagross Gyarados Tyranitar Snorlax Magneton Salamence
+Main:
+
+153-p2
+Salamence Aerodactyl Suicune Cloyster Jirachi
+Main:
+
+130-p1
+Venusaur Tyranitar Swampert Forretress Zapdos Aerodactyl
+Main:
+
+130-p2
+Moltres Donphan Tyranitar Cloyster Snorlax Jolteon
+Main:
+
+57-p1
+Metagross Tyranitar Gengar Skarmory Jolteon Suicune
+Main:
+
+57-p2
+Forretress Swampert Blissey Dugtrio Skarmory Gengar
+Main:
+
+151-p1
+Jolteon Dugtrio Gengar Swampert Skarmory Tyranitar
+Main:
+
+151-p2
+Salamence Jirachi Tyranitar Cloyster Aerodactyl Suicune
+Main:
+
+121-p1
+Swampert Skarmory Magneton Tyranitar Aerodactyl Celebi
+Main:
+
+121-p2
+Forretress Swampert Dugtrio Gengar Skarmory Blissey
+Main:
+
+139-p1
+Swampert Magneton Celebi Gyarados
+Main:
+
+139-p2
+Jolteon Skarmory Tyranitar Swampert Aerodactyl
+Main:
+
+140-p1
+Metagross Starmie Milotic Salamence Tyranitar Blissey
+Main:
+
+140-p2
+Vaporeon Forretress Tyranitar Blissey Swampert
+Main:
+
+51-p1
+Tyranitar Skarmory Swampert Celebi Aerodactyl Gengar
+Main:
+
+51-p2
+Zapdos Swampert Starmie Tyranitar Celebi Snorlax
+Main:
+
+124-p1
+Tyranitar Skarmory Jolteon Magneton Aerodactyl Swampert
+Main:
+
+124-p2
+Zapdos Swampert Starmie Celebi Dugtrio Snorlax
+Main:
+
+152-p1
+Jirachi Flygon Tyranitar Zapdos Skarmory Gengar
+Main:
+
+152-p2
+Tyranitar Gengar Suicune Celebi Jirachi Salamence
+Main:
+
+63-p1
+Salamence Swampert Snorlax Tyranitar Vaporeon Magneton
+Main:
+
+63-p2
+Metagross Porygon2 Snorlax Starmie Salamence Magneton
+Main:
+
+145-p1
+Celebi Suicune Jirachi Salamence Tyranitar Dugtrio
+Main:
+
+145-p2
+Skarmory Blissey Tyranitar Gengar Starmie
+Main:
+
+82-p1
+Tyranitar Starmie Porygon2 Dugtrio Aerodactyl
+Main:
+
+82-p2
+Milotic Snorlax Magneton Flygon Tyranitar
+Main:
+
+128-p1
+Swampert Dugtrio Armaldo Gardevoir Aerodactyl Celebi
+Main:
+
+128-p2
+Metagross Snorlax Gyarados Magneton Salamence Tyranitar
+Main:
+
+81-p1
+Tyranitar Starmie Flygon Magneton Gengar Swampert
+Main:
+
+81-p2
+Tyranitar Suicune Skarmory Celebi Dugtrio Magneton
+Main:
+
+170-p1
+Forretress Blissey Tyranitar Swampert Dugtrio Gengar
+Main:
+
+170-p2
+Zapdos Skarmory Gengar Flygon Tyranitar Jirachi
+Main:
+
+182-p1
+Tyranitar Jirachi Gengar Porygon2 Dugtrio Starmie
+Main:
+
+182-p2
+Tyranitar Gengar Blissey Swampert Zapdos Dugtrio
+Main:
+
+200-p1
+Heracross Tyranitar Gengar Swampert Snorlax Aerodactyl
+Main:
+
+200-p2
+Salamence Skarmory Blissey Magneton Swampert Tyranitar
+Main:
+
+146-p1
+Sceptile Zapdos Forretress Swampert Tyranitar Aerodactyl
+Main:
+
+146-p2
+Zapdos Blissey Tyranitar Swampert Gengar Dugtrio
+Main:
+
+143-p1
+Celebi Skarmory Tyranitar Magneton Aerodactyl Swampert
+Main:
+
+143-p2
+Cloyster Aerodactyl Gengar Celebi Swampert Tyranitar
+Main:
+
+188-p1
+Tyranitar Suicune Jirachi Celebi Dugtrio Porygon2
+Main:
+
+188-p2
+Tyranitar Zapdos Skarmory Swampert Celebi Gengar
+Main:
+
+187-p1
+Metagross Snorlax Magneton Skarmory Zapdos Tyranitar
+Main:
+
+187-p2
+Zapdos Skarmory Gengar Tyranitar Blissey Swampert
+Main:
+
+94-p1
+Metagross Zapdos Salamence Swampert Tyranitar Snorlax
+Main:
+
+94-p2
+Metagross Swampert Heracross Snorlax Aerodactyl Tyranitar
+Main:
+
+67-p1
+Metagross Snorlax Cloyster Aerodactyl Gengar Tyranitar
+Main:
+
+67-p2
+Starmie Skarmory Celebi Magneton Blissey Dugtrio
+Main:
+
+148-p1
+Tyranitar Forretress Salamence Swampert Metagross Celebi
+Main:
+
+148-p2
+Tyranitar Swampert Forretress Aerodactyl Blissey Celebi
+Main:
+
+89-p1
+Gengar Dugtrio Suicune Camerupt Snorlax Metagross
+Main:
+
+89-p2
+Tyranitar Swampert Forretress Blissey Gengar Moltres
+Main:
+
+84-p1
+Venusaur Tyranitar Dugtrio Jirachi Gengar Swampert
+Main:
+
+84-p2
+Metagross Celebi Swampert Zapdos Skarmory Heracross
+Main:
+
+150-p1
+Suicune Blissey Magneton Celebi Metagross Salamence
+Main:
+
+150-p2
+Jolteon Skarmory Swampert Dugtrio Gengar Tyranitar
+Main:
+
+158-p1
+Tyranitar Zapdos Skarmory Celebi Gengar Swampert
+Main:
+
+158-p2
+Salamence Steelix Magneton Celebi Snorlax Starmie
+Main:
+
+149-p1
+Tyranitar Celebi Forretress Swampert Blissey Gengar
+Main:
+
+149-p2
+Jirachi Tyranitar Skarmory Gengar Blissey Claydol
+Main:
+
+193-p1
+Forretress Blissey Tyranitar Gengar Swampert Moltres
+Main:
+
+193-p2
+Gengar Dugtrio Celebi Metagross Regice Suicune
+Main:
+
+203-p1
+Metagross Forretress Tyranitar Blissey Swampert Aerodactyl
+Main:
+
+203-p2
+Tyranitar Skarmory Magneton Flygon Snorlax Gyarados
+Main:
+
+91-p1
+Flygon Blissey Magneton Swampert Cloyster
+Main:
+
+91-p2
+Tyranitar Gengar Jirachi Milotic Charizard Alakazam
+Main:
+
+205-p1
+Tyranitar Skarmory Jolteon Gengar Aerodactyl Swampert
+Main:
+
+205-p2
+Salamence Starmie Blissey Tyranitar Aerodactyl Swampert
+Main:
+
+197-p1
+Tyranitar Skarmory Blissey Magneton Donphan Suicune
+Main:
+
+197-p2
+Zapdos Metagross Skarmory Dugtrio Gengar
+Main:
+
+186-p1
+Skarmory Dugtrio Gengar Claydol Suicune Blissey
+Main:
+
+186-p2
+Tyranitar Jirachi Aerodactyl Metagross Swampert Flygon
+Main:
+
+129-p1
+Swampert Heracross Tyranitar Gengar Jirachi Salamence
+Main:
+
+129-p2
+Tyranitar Celebi Blissey Forretress Swampert Gengar
+Main:
+
+199-p1
+Jolteon Skarmory Aerodactyl Gengar Swampert Tyranitar
+Main:
+
+199-p2
+Zapdos Swampert Skarmory Gengar Jirachi Tyranitar
+Main:
+
+185-p1
+Tyranitar Gengar Dugtrio Zapdos Celebi Swampert
+Main:
+
+185-p2
+Salamence Swampert Tyranitar Cloyster Snorlax Magneton
+Main:
+
+76-p1
+Forretress Vaporeon Swampert Blissey Tyranitar Gengar
+Main:
+
+76-p2
+Venusaur Tyranitar Forretress Swampert Zapdos Aerodactyl
+Main:
+
+204-p1
+Metagross Magneton Porygon2 Snorlax Salamence Heracross
+Main:
+
+204-p2
+Zapdos Skarmory Dugtrio Metagross Blissey Gengar
+Main:
+
+198-p1
+Zapdos Tyranitar Celebi Marowak Gengar Suicune
+Main:
+
+198-p2
+Skarmory Jolteon Metagross Aerodactyl Gengar Tyranitar
+Main:
+
+201-p1
+Skarmory Blissey Gengar Dugtrio Swampert Moltres
+Main:
+
+201-p2
+Tyranitar Forretress Blissey Flygon Suicune Gengar
+Main:
+
+175-p1
+Zapdos Jirachi Forretress Gengar Tyranitar Swampert
+Main:
+
+175-p2
+Zapdos Suicune Weezing Claydol Dugtrio Jirachi
+Main:
+
+122-p1
+Metagross Snorlax Tyranitar Swampert Heracross Aerodactyl
+Main:
+
+122-p2
+Suicune Celebi Claydol Magneton Dugtrio Snorlax
+Main:
+
+196-p1
+Jolteon Swampert Skarmory Tyranitar Gengar Aerodactyl
+Main:
+
+196-p2
+Tyranitar Milotic Magneton Snorlax Flygon Salamence
+Main:
+
+179-p1
+Gengar Snorlax Cloyster Aerodactyl Swampert Tyranitar
+Main:
+
+179-p2
+Tyranitar Celebi Starmie Swampert Dugtrio Snorlax
+Main:
+
+180-p1
+Suicune Snorlax Metagross Magneton Gyarados Claydol
+Main:
+
+180-p2
+Zapdos Metagross Tyranitar Swampert Snorlax Salamence
+Main:
+
+172-p1
+Tyranitar Zapdos Skarmory Celebi Gengar Swampert
+Main:
+
+172-p2
+Salamence Snorlax Tyranitar Aerodactyl Jirachi Swampert
+Main:
+
+202-p1
+Salamence Celebi Gengar Tyranitar Forretress Swampert
+Main:
+
+202-p2
+Zapdos Tyranitar Swampert Skarmory Gengar Dugtrio
+Main:
+
+194-p1
+Tyranitar Magneton Skarmory Celebi Donphan Milotic
+Main:
+
+194-p2
+Celebi Skarmory Aerodactyl Magneton Tyranitar Swampert
+Main:
+
+90-p1
+Tyranitar Blissey Skarmory Starmie Gengar Metagross
+Main:
+
+90-p2
+Suicune Dugtrio Skarmory Blissey Claydol Gengar
+Main:
+
+176-p1
+Swampert Celebi Starmie Blissey Skarmory Magneton
+Main:
+
+176-p2
+Metagross Celebi Forretress Tyranitar Milotic Gengar
+Main:
+
+136-p1
+Salamence Blissey Celebi Gengar Forretress Swampert
+Main:
+
+136-p2
+Milotic Skarmory Blissey Claydol Salamence Swampert
+Main:
+
+135-p1
+Tyranitar Zapdos Forretress Swampert Metagross Aerodactyl
+Main:
+
+135-p2
+Salamence Metagross Magneton Snorlax Dugtrio Gyarados
+Main:
+
+192-p1
+Zapdos Metagross Snorlax Tyranitar Swampert Salamence
+Main:
+
+192-p2
+Skarmory Blissey Swampert Tyranitar Starmie Gengar
+Main:
+
+138-p1
+Salamence Celebi Blissey Skarmory Swampert Starmie
+Main:
+
+138-p2
+Salamence Suicune Snorlax Celebi Magneton Claydol
+Main:
+
+127-p1
+Gengar Cloyster Swampert Snorlax Tyranitar Aerodactyl
+Main:
+
+127-p2
+Salamence Celebi Tyranitar Suicune Claydol Charizard
+Main:
+
+70-p1
+Skarmory Dugtrio Blissey Celebi Claydol Gengar
+Main:
+
+70-p2
+Metagross Magneton Zapdos Snorlax Celebi Aerodactyl
+Main:
+
+87-p1
+Tyranitar Celebi Umbreon Forretress Flygon Suicune
+Main:
+
+87-p2
+Suicune Celebi Dugtrio Magneton Claydol Snorlax
+Main:
+
+157-p1
+Celebi Starmie Skarmory Blissey Swampert Dugtrio
+Main:
+
+157-p2
+Skarmory Jolteon Gengar Tyranitar Alakazam
+Main:
+
+178-p1
+Snorlax Cloyster Gengar Aerodactyl Metagross Tyranitar
+Main:
+
+178-p2
+Salamence Tyranitar Starmie Swampert Blissey Aerodactyl
+Main:
+
+86-p1
+Tyranitar Snorlax Magneton Skarmory Flygon Vaporeon
+Main:
+
+86-p2
+Suicune Skarmory Heracross Zapdos Swampert Metagross
+Main:
+
+189-p1
+Skarmory Gengar Blissey Tyranitar Swampert Starmie
+Main:
+
+189-p2
+Snorlax Magneton Tyranitar Flygon Skarmory Gyarados
+Main:
+
+190-p1
+Metagross Suicune Snorlax Salamence Magneton Heracross
+Main:
+
+190-p2
+Metagross Starmie Gengar Blissey Tyranitar Aerodactyl
+Main:
+
+195-p1
+Zapdos Gengar Celebi Swampert Jirachi Tyranitar
+Main:
+
+195-p2
+Metagross Snorlax Zapdos Salamence Swampert Tyranitar
+Main:
+
+167-p1
+Heracross Aerodactyl Swampert Gengar Snorlax Tyranitar
+Main:
+
+167-p2
+Moltres Forretress Tyranitar Swampert Blissey Gengar
+Main:
+
+163-p1
+Tyranitar Salamence Blissey Starmie Aerodactyl Swampert
+Main:
+
+163-p2
+Tyranitar Swampert Blissey Dugtrio Forretress Gengar
+Main:
+
+161-p1
+Tyranitar Milotic Gengar Dugtrio Forretress Blissey
+Main:
+
+161-p2
+Salamence Jirachi Tyranitar Cloyster Aerodactyl Suicune
+Main:
+
+183-p1
+Forretress Vaporeon Tyranitar Gengar Swampert Blissey
+Main:
+
+183-p2
+Metagross Snorlax Magneton Skarmory Zapdos Tyranitar
+Main:
+
+181-p1
+Gengar Celebi Dugtrio Jirachi Suicune Regice
+Main:
+
+181-p2
+Skarmory Blissey Tyranitar Swampert Gengar Starmie
+Main:
+
+164-p1
+Tyranitar Zapdos Celebi Skarmory Gengar Swampert
+Main:
+
+164-p2
+Suicune Celebi Magneton Snorlax Dugtrio Claydol
+Main:
+
+177-p1
+Heracross Snorlax Swampert Tyranitar Aerodactyl Gengar
+Main:
+
+177-p2
+Zapdos Suicune Weezing Claydol Jirachi Dugtrio
+Main:
+
+159-p1
+Tyranitar Blissey Salamence Starmie Swampert Aerodactyl
+Main:
+
+159-p2
+Swampert Celebi Cloyster Magneton Tyranitar Gengar
+Main:
+
+166-p1
+Moltres Swampert Blissey Forretress Gengar Tyranitar
+Main:
+
+166-p2
+Salamence Blissey Skarmory Magneton Swampert Tyranitar
+Main:
+
+174-p1
+Jolteon Metagross Tyranitar Skarmory Gengar Aerodactyl
+Main:
+
+174-p2
+Venusaur Jirachi Swampert Gengar Starmie Dugtrio
+Main:
+
+191-p1
+Forretress Blissey Gengar Swampert Tyranitar Dugtrio
+Main:
+
+191-p2
+Jolteon Skarmory Gengar Tyranitar Flygon Mantine
+Main:
+
+162-p1
+Metagross Celebi Magneton Tyranitar Aerodactyl Cloyster
+Main:
+
+162-p2
+Tyranitar Zapdos Skarmory Celebi Swampert Gengar
+Main:
+
+120-p1
+Venusaur Gengar Swampert Starmie Jirachi
+Main:
+
+120-p2
+Snorlax Blissey Magneton Skarmory Suicune
+Main:
+
+184-p1
+Forretress Zapdos Blissey Swampert Tyranitar Gengar
+Main:
+
+184-p2
+Metagross Blissey Swampert Tyranitar Starmie Salamence
+Main:
+
+165-p1
+Tyranitar Skarmory Zapdos Gengar Swampert Celebi
+Main:
+
+165-p2
+Skarmory Magneton Flygon Celebi Tyranitar Milotic
+Main:
+
+141-p1
+Salamence Heracross Tyranitar Metagross Swampert Snorlax
+Main:
+
+141-p2
+Celebi Swampert Skarmory Tyranitar Aerodactyl Magneton
+Main:
+
+173-p1
+Tyranitar Starmie Salamence Blissey Swampert Aerodactyl
+Main:
+
+173-p2
+Venusaur Swampert Jirachi Gengar Dugtrio Starmie
+Main:
+
+169-p1
+Metagross Tyranitar Cloyster Jolteon Flygon Aerodactyl
+Main:
+
+169-p2
+Jirachi Claydol Skarmory Blissey Tyranitar Gengar
+Main:
+
+168-p1
+Suicune Jirachi Tyranitar Aerodactyl Weezing Cloyster
+Main:
+
+168-p2
+Zapdos Gengar Tyranitar Celebi Jirachi Swampert
+Main:
+
+144-p1
+Salamence Claydol Cloyster Tyranitar Suicune Jirachi
+Main:
+
+144-p2
+Tyranitar Gengar Skarmory Celebi Swampert
+Main:
