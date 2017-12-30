@@ -1,0 +1,386 @@
+[
+  {
+    "id": "1-p1",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "1-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "0-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "0-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "6-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "6-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "11-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "11-p2",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "7-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "7-p2",
+    "tag": "Incomplete"
+  },
+  {
+    "id": "2-p1",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "2-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "3-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "3-p2",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "4-p1",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "4-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "14-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "14-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "15-p1",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "15-p2",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "16-p1",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "16-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "10-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "10-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "9-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "9-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "8-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "8-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "5-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "5-p2",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "17-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "17-p2",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "13-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "13-p2",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "30-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "30-p2",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "39-p1",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "39-p2",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "31-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "31-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "35-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "35-p2",
+    "tag": "Misc"
+  },
+  {
+    "id": "33-p1",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "33-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "34-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "34-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "21-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "21-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "40-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "40-p2",
+    "tag": "Balanced_Mag"
+  },
+  {
+    "id": "19-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "19-p2",
+    "tag": " Special_Offense"
+  },
+  {
+    "id": "20-p1",
+    "tag": " Physical_Offense"
+  },
+  {
+    "id": "20-p2",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "24-p1",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "24-p2",
+    "tag": "Balanced_Mag"
+  },
+  {
+    "id": "37-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "37-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "38-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "38-p2",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "27-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "27-p2",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "12-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "12-p2",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "23-p1",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "23-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "25-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "25-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "18-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "18-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "32-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "32-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "29-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "29-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "44-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "44-p2",
+    "tag": "TSS_Skarm"
+  },
+  {
+    "id": "45-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "45-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "28-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "28-p2",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "43-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "43-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "36-p1",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "36-p2",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "22-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "22-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "46-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "46-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "42-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "42-p2",
+    "tag": "Spikes_Offense"
+  },
+  {
+    "id": "41-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "41-p2",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "47-p1",
+    "tag": "TSS_Forre"
+  },
+  {
+    "id": "47-p2",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "26-p1",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "26-p2",
+    "tag": "Mixed_Offense"
+  }
+]
