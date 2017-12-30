@@ -196,7 +196,7 @@ Main: Special_Offense
 
 40-p2
 Snorlax Claydol Suicune Blissey Magneton Skarmory
-Main: Balanced_Mag
+Main: Skarm_Mag
 
 19-p1
 Salamence Blissey Tyranitar Swampert Jirachi Suicune
@@ -220,7 +220,7 @@ Main: Jolteon_Skarm
 
 24-p2
 Suicune Blissey Magneton Metagross Celebi Salamence
-Main: Balanced_Mag
+Main: Physical_Mag
 
 37-p1
 Zapdos Magneton Snorlax Metagross Salamence Regirock
@@ -356,7 +356,7 @@ Main: Physical_Offense
 
 42-p2
 Jolteon Metagross Tyranitar Skarmory Salamence Starmie
-Main: Spikes_Offense
+Main: Jolteon_Skarm
 
 41-p1
 Metagross Snorlax Jirachi Claydol Gengar Suicune

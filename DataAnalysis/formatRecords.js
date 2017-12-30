@@ -42,6 +42,7 @@ lineReader.on('close', () => {
       info = parseReplay(res.data)
       info.id = ob.id
       info.context = ob.context
+      info.url = ob.url
       output.push(info)
     })
   }))

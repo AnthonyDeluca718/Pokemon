@@ -23,7 +23,7 @@ function lineHandler(line) {
   } else if (idx === 1) {
     idx += 1
   } else if (idx === 2){
-    team.tag = line.split(': ')[1]
+    team.tag = line.split(': ')[1].trim()
     output.push(team)
     team = {
       id: "",

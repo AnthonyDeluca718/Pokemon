@@ -197,7 +197,7 @@
   },
   {
     "id": "40-p2",
-    "tag": "Balanced_Mag"
+    "tag": "Skarm_Mag"
   },
   {
     "id": "19-p1",
@@ -205,11 +205,11 @@
   },
   {
     "id": "19-p2",
-    "tag": " Special_Offense"
+    "tag": "Special_Offense"
   },
   {
     "id": "20-p1",
-    "tag": " Physical_Offense"
+    "tag": "Physical_Offense"
   },
   {
     "id": "20-p2",
@@ -221,7 +221,7 @@
   },
   {
     "id": "24-p2",
-    "tag": "Balanced_Mag"
+    "tag": "Physical_Mag"
   },
   {
     "id": "37-p1",
@@ -357,7 +357,7 @@
   },
   {
     "id": "42-p2",
-    "tag": "Spikes_Offense"
+    "tag": "Jolteon_Skarm"
   },
   {
     "id": "41-p1",
