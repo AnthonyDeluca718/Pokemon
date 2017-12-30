@@ -13,7 +13,7 @@
   },
   {
     "id": "0-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "6-p1",
@@ -29,7 +29,7 @@
   },
   {
     "id": "11-p2",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "7-p1",
@@ -41,7 +41,7 @@
   },
   {
     "id": "2-p1",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "2-p2",
@@ -53,7 +53,7 @@
   },
   {
     "id": "3-p2",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "4-p1",
@@ -61,7 +61,7 @@
   },
   {
     "id": "4-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "14-p1",
@@ -69,11 +69,11 @@
   },
   {
     "id": "14-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "15-p1",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "15-p2",
@@ -81,7 +81,7 @@
   },
   {
     "id": "16-p1",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "16-p2",
@@ -133,7 +133,7 @@
   },
   {
     "id": "13-p2",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "30-p1",
@@ -145,11 +145,11 @@
   },
   {
     "id": "39-p1",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "39-p2",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "31-p1",
@@ -169,11 +169,11 @@
   },
   {
     "id": "33-p1",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "33-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "34-p1",
@@ -245,7 +245,7 @@
   },
   {
     "id": "27-p2",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "12-p1",
@@ -253,15 +253,15 @@
   },
   {
     "id": "12-p2",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "23-p1",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "23-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "25-p1",
@@ -269,7 +269,7 @@
   },
   {
     "id": "25-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "18-p1",
@@ -277,7 +277,7 @@
   },
   {
     "id": "18-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "32-p1",
@@ -285,7 +285,7 @@
   },
   {
     "id": "32-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "29-p1",
@@ -293,7 +293,7 @@
   },
   {
     "id": "29-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "44-p1",
@@ -301,7 +301,7 @@
   },
   {
     "id": "44-p2",
-    "tag": "TSS_Skarm"
+    "tag": "Skarm_Spikes"
   },
   {
     "id": "45-p1",
@@ -317,7 +317,7 @@
   },
   {
     "id": "28-p2",
-    "tag": "Spikes_Offense"
+    "tag": "Cloyster_Spikes"
   },
   {
     "id": "43-p1",
@@ -329,7 +329,7 @@
   },
   {
     "id": "36-p1",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "36-p2",
@@ -369,7 +369,7 @@
   },
   {
     "id": "47-p1",
-    "tag": "TSS_Forre"
+    "tag": "Forre_Spikes"
   },
   {
     "id": "47-p2",

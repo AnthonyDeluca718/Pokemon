@@ -1,14 +1,14 @@
 const groupings = {
   'Skarm_Mag': 'TSS',
   'Physical_Mag': 'Spikeless_Offense',
-  'TSS_Skarm': 'TSS',
+  'Skarm_Spikes': 'TSS',
   'Mixed_Offense': 'Spikeless_Offense',
   'Spikeless_Balance': 'Other',
-  'TSS_Forre': 'TSS',
+  'Forre_Spikes': 'TSS',
   'Special_Offense': 'Spikeless_Offense',
   'Jolteon_Skarm': 'TSS',
   'Physical_Offense': 'Spikeless_Offense',
-  'Spikes_Offense': 'Other',
+  'Cloyster_Spikes': 'Other',
   'Misc': 'Other',
   'Incomplete': 'Ignore'
 }
@@ -19,7 +19,7 @@ Main: Special_Offense
 
 77-p2
 Forretress Celebi Aerodactyl Tyranitar Suicune Flygon
-Main: TSS_Forre
+Main: Forre_Spikes
 
 103-p1
 Vaporeon Regice Metagross Magneton Salamence Tyranitar
@@ -31,7 +31,7 @@ Main: Jolteon_Skarm
 
 64-p1
 Forretress Suicune Gengar Celebi Blissey Tyranitar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 64-p2
 Metagross Snorlax Magneton Tyranitar Salamence Gyarados
@@ -39,7 +39,7 @@ Main: Physical_Mag
 
 74-p1
 Tyranitar Skarmory Blissey Metagross Gengar Starmie
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 74-p2
 Metagross Celebi Magneton Dugtrio Snorlax Salamence
@@ -47,11 +47,11 @@ Main: Physical_Mag
 
 52-p1
 Gengar Cloyster Salamence Zapdos Metagross Tyranitar
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 52-p2
 Swampert Celebi Zapdos Forretress Gengar Tyranitar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 72-p1
 Metagross Magneton Cloyster Tyranitar Salamence Snorlax
@@ -59,7 +59,7 @@ Main: Physical_Mag
 
 72-p2
 Tyranitar Skarmory Gengar Aerodactyl Swampert Celebi
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 78-p1
 Metagross Snorlax Tyranitar Magneton Gyarados Salamence
@@ -67,7 +67,7 @@ Main: Physical_Mag
 
 78-p2
 Cloyster Metagross Gengar Swampert Blissey Salamence
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 85-p1
 Jolteon Snorlax Tyranitar Gyarados Umbreon Swampert
@@ -75,7 +75,7 @@ Main: Spikeless_Balance
 
 85-p2
 Weezing Jirachi Tyranitar Cloyster Aerodactyl Suicune
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 88-p1
 Skarmory Dugtrio Claydol Lapras Jirachi Blissey
@@ -95,7 +95,7 @@ Main: Mixed_Offense
 
 79-p1
 Tyranitar Forretress Blissey Gengar Celebi Swampert
-Main: TSS_Forre
+Main: Forre_Spikes
 
 79-p2
 Swampert Starmie Magneton Heracross Gengar Salamence
@@ -111,7 +111,7 @@ Main: Mixed_Offense
 
 73-p1
 Skarmory Gengar Swampert Tyranitar Starmie Blissey
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 73-p2
 Tyranitar Porygon2 Celebi Jirachi Dugtrio Suicune
@@ -131,11 +131,11 @@ Main: Jolteon_Skarm
 
 66-p2
 Skarmory Blissey Tyranitar Salamence Metagross Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 104-p1
 Starmie Celebi Forretress Tyranitar Swampert Gengar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 104-p2
 Skarmory Snorlax Tyranitar Swampert Starmie Magneton
@@ -151,11 +151,11 @@ Main: Spikeless_Balance
 
 106-p1
 Venusaur Magneton Aerodactyl Cloyster Swampert Tyranitar
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 106-p2
 Tyranitar Skarmory Dugtrio Swampert Zapdos Metagross
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 99-p1
 Gengar Suicune Forretress Blissey Salamence Rhydon
@@ -163,15 +163,15 @@ Main: Misc
 
 99-p2
 Tyranitar Celebi Zapdos Skarmory Aerodactyl
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 95-p1
 Forretress Blissey Swampert Tyranitar Skarmory Dugtrio
-Main: TSS_Forre
+Main: Forre_Spikes
 
 95-p2
 Skarmory Blissey Swampert Gengar Tyranitar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 50-p1
 Suicune Celebi Dugtrio Swampert Jirachi Tyranitar
@@ -179,7 +179,7 @@ Main: Special_Offense
 
 50-p2
 Tyranitar Celebi Milotic Forretress Aerodactyl Dugtrio
-Main: TSS_Forre
+Main: Forre_Spikes
 
 56-p1
 Tyranitar Zapdos Gengar Flygon Aerodactyl Swampert
@@ -187,11 +187,11 @@ Main: Mixed_Offense
 
 56-p2
 Forretress Milotic Blissey Swampert Tyranitar Gengar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 54-p1
 Tyranitar Zapdos Skarmory Celebi Aerodactyl Swampert
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 54-p2
 Zapdos Regice Gengar Dugtrio Starmie Jirachi
@@ -207,7 +207,7 @@ Main: Physical_Mag
 
 101-p1
 Metagross Tyranitar Blissey Gengar Skarmory Starmie
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 101-p2
 Skarmory Magneton Swampert Tyranitar Jolteon Aerodactyl
@@ -219,15 +219,15 @@ Main: Incomplete
 
 118-p2
 Forretress Gengar Swampert Milotic Tyranitar Blissey
-Main: TSS_Forre
+Main: Forre_Spikes
 
 92-p1
 Venusaur Skarmory Gengar Swampert Tyranitar Lapras
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 92-p2
 Celebi Tyranitar Metagross Aerodactyl Cloyster Swampert
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 100-p1
 Metagross Celebi Dugtrio Salamence Magneton Snorlax
@@ -271,7 +271,7 @@ Main: Special_Offense
 
 109-p1
 Celebi Swampert Blissey Starmie Skarmory Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 109-p2
 Zapdos Jirachi Tyranitar Gengar Aerodactyl Swampert
@@ -279,7 +279,7 @@ Main: Mixed_Offense
 
 113-p1
 Gengar Snorlax Cloyster Tyranitar Aerodactyl Swampert
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 113-p2
 Suicune Jirachi Gengar Salamence Dugtrio Blissey
@@ -295,15 +295,15 @@ Main: Mixed_Offense
 
 134-p1
 Snorlax Cloyster Jirachi Swampert Aerodactyl
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 134-p2
 Skarmory Gengar Metagross Aerodactyl Tyranitar Suicune
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 93-p1
 Zapdos Gengar Swampert Forretress Venusaur Tyranitar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 93-p2
 Snorlax Blissey Magneton Claydol Skarmory Suicune
@@ -311,7 +311,7 @@ Main: Skarm_Mag
 
 111-p1
 Jirachi Tyranitar Blissey Gengar Skarmory Claydol
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 111-p2
 Suicune Regice Gengar Celebi Dugtrio Jirachi
@@ -319,11 +319,11 @@ Main: Special_Offense
 
 105-p1
 Tyranitar Claydol Skarmory Salamence Celebi Blissey
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 105-p2
 Skarmory Claydol Blissey Suicune Swampert Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 110-p1
 Snorlax Celebi Swampert Regice Tyranitar Aerodactyl
@@ -331,15 +331,15 @@ Main: Mixed_Offense
 
 110-p2
 Blissey Gengar Forretress Tyranitar Swampert Dugtrio
-Main: TSS_Forre
+Main: Forre_Spikes
 
 107-p1
 Zapdos Forretress Tyranitar Celebi Swampert Aerodactyl
-Main: TSS_Forre
+Main: Forre_Spikes
 
 107-p2
 Skarmory Blissey Gengar Swampert Celebi Aerodactyl
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 65-p1
 Zapdos Celebi Jirachi Suicune Tyranitar Gyarados
@@ -379,11 +379,11 @@ Main: Skarm_Mag
 
 123-p2
 Tyranitar Forretress Swampert Gengar Blissey Aerodactyl
-Main: TSS_Forre
+Main: Forre_Spikes
 
 114-p1
 Snorlax Cloyster Metagross Aerodactyl Gengar Tyranitar
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 114-p2
 Salamence Magneton Metagross Gyarados Snorlax
@@ -415,15 +415,15 @@ Main: Special_Offense
 
 69-p1
 Skarmory Celebi Gengar Swampert Tyranitar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 69-p2
 Skarmory Gengar Blissey Tyranitar Swampert Metagross
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 155-p1
 Forretress Moltres Blissey Swampert
-Main: TSS_Forre
+Main: Forre_Spikes
 
 155-p2
 Metagross Blissey Celebi Heracross Salamence
@@ -459,7 +459,7 @@ Main: Special_Offense
 
 119-p2
 Venusaur Zapdos Tyranitar Swampert Aerodactyl Forretress
-Main: TSS_Forre
+Main: Forre_Spikes
 
 115-p1
 Zapdos Suicune Umbreon Dugtrio Tyranitar
@@ -467,19 +467,19 @@ Main: Misc
 
 115-p2
 Tyranitar Blissey Skarmory Gengar Aerodactyl Swampert
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 137-p1
 Cloyster Flygon Magneton Zapdos Tyranitar Swampert
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 137-p2
 Tyranitar Zapdos Skarmory Gengar Jirachi Swampert
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 171-p1
 Forretress Blissey Gengar Dugtrio Swampert Tyranitar
-Main: TSS_Forre
+Main: Forre_Spikes
 
 171-p2
 Jolteon Dugtrio Milotic Salamence Metagross
@@ -487,7 +487,7 @@ Main: Mixed_Offense
 
 125-p1
 Snorlax Cloyster Metagross Aerodactyl Gengar Tyranitar
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 125-p2
 Salamence Metagross Claydol Magneton Snorlax Vaporeon
@@ -499,11 +499,11 @@ Main: Special_Offense
 
 62-p2
 Skarmory Jirachi Weezing Blissey Gengar Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 60-p1
 Forretress Swampert Blissey Gengar Skarmory Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 60-p2
 Skarmory Tyranitar Starmie Snorlax Magneton Swampert
@@ -519,11 +519,11 @@ Main: Skarm_Mag
 
 126-p1
 Skarmory Celebi Tyranitar Gengar Swampert Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 126-p2
 Snorlax Houndoom Flygon Forretress Gengar Suicune
-Main: TSS_Forre
+Main: Forre_Spikes
 
 80-p1
 Tyranitar Gengar Metagross Jolteon Skarmory Swampert
@@ -531,7 +531,7 @@ Main: Jolteon_Skarm
 
 80-p2
 Salamence Tyranitar Suicune Cloyster
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 154-p1
 Flygon Skarmory Celebi Tyranitar Magneton Aerodactyl
@@ -543,7 +543,7 @@ Main: Skarm_Mag
 
 156-p1
 Tyranitar Swampert Skarmory Dugtrio Blissey Gengar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 156-p2
 Salamence Metagross Swampert Tyranitar Regice Aerodactyl
@@ -551,11 +551,11 @@ Main: Mixed_Offense
 
 142-p1
 Tyranitar Zapdos Skarmory Celebi Aerodactyl Swampert
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 142-p2
 Houndoom Blissey Forretress Salamence Medicham Heracross
-Main: TSS_Forre
+Main: Forre_Spikes
 
 61-p1
 Jolteon Skarmory Metagross Starmie Salamence Tyranitar
@@ -571,7 +571,7 @@ Main: Mixed_Offense
 
 147-p2
 Tyranitar Skarmory Blissey Gengar Starmie Dugtrio
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 153-p1
 Metagross Gyarados Tyranitar Snorlax Magneton Salamence
@@ -579,15 +579,15 @@ Main: Physical_Mag
 
 153-p2
 Salamence Aerodactyl Suicune Cloyster Jirachi
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 130-p1
 Venusaur Tyranitar Swampert Forretress Zapdos Aerodactyl
-Main: TSS_Forre
+Main: Forre_Spikes
 
 130-p2
 Moltres Donphan Tyranitar Cloyster Snorlax Jolteon
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 57-p1
 Metagross Tyranitar Gengar Skarmory Jolteon Suicune
@@ -595,7 +595,7 @@ Main: Jolteon_Skarm
 
 57-p2
 Forretress Swampert Blissey Dugtrio Skarmory Gengar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 151-p1
 Jolteon Dugtrio Gengar Swampert Skarmory Tyranitar
@@ -603,7 +603,7 @@ Main: Jolteon_Skarm
 
 151-p2
 Salamence Jirachi Tyranitar Cloyster Aerodactyl Suicune
-Main: Spikes_Offense
+Main: Cloyster_Spikes
 
 121-p1
 Swampert Skarmory Magneton Tyranitar Aerodactyl Celebi
@@ -611,7 +611,7 @@ Main: Skarm_Mag
 
 121-p2
 Forretress Swampert Dugtrio Gengar Skarmory Blissey
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 139-p1
 Swampert Magneton Celebi Gyarados
@@ -627,11 +627,11 @@ Main: Spikeless_Balance
 
 140-p2
 Vaporeon Forretress Tyranitar Blissey Swampert
-Main: TSS_Forre
+Main: Forre_Spikes
 
 51-p1
 Tyranitar Skarmory Swampert Celebi Aerodactyl Gengar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 51-p2
 Zapdos Swampert Starmie Tyranitar Celebi Snorlax
@@ -647,7 +647,7 @@ Main: Spikeless_Balance
 
 152-p1
 Jirachi Flygon Tyranitar Zapdos Skarmory Gengar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 152-p2
 Tyranitar Gengar Suicune Celebi Jirachi Salamence
@@ -667,7 +667,7 @@ Main: Mixed_Offense
 
 145-p2
 Skarmory Blissey Tyranitar Gengar Starmie
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 82-p1
 Tyranitar Starmie Porygon2 Dugtrio Aerodactyl
@@ -695,15 +695,15 @@ Main: Skarm_Mag
 
 170-p1
 Forretress Blissey Tyranitar Swampert Dugtrio Gengar
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 170-p2
 Zapdos Skarmory Gengar Flygon Tyranitar Jirachi
-Main: TSS_Skarm
+Main: Skarm_Spikes
 
 182-p1
 Tyranitar Jirachi Gengar Porygon2 Dugtrio Starmie
-Main: 
+Main:
 
 182-p2
 Tyranitar Gengar Blissey Swampert Zapdos Dugtrio

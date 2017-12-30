@@ -4,20 +4,20 @@ const fs = require('fs')
 const path = require('path')
 const outfile = path.join(__dirname, 'Output', 'spl7-TSS_Spikeless')
 
-// 'Skarm_Mag', 'Physical_Mag', 'TSS_Skarm', 'Mixed_Offense', 'Spikeless_Balance', 'TSS_Forre', 'Special_Offense', 'Incomplete', 'Jolteon_Skarm', 'Physical_Offense', 'Spikes_Offense', 'Misc', 'Balanced_Mag'
+// 'Skarm_Mag', 'Physical_Mag', 'Skarm_Spikes', 'Mixed_Offense', 'Spikeless_Balance', 'Forre_Spikes', 'Special_Offense', 'Incomplete', 'Jolteon_Skarm', 'Physical_Offense', 'Cloyster_Spikes', 'Misc', 'Balanced_Mag'
 // Note we always ignore imcomplete. Misc is not obvious to handle
 
 const groupings = {
   'Skarm_Mag': 'TSS',
   'Physical_Mag': 'Spikeless_Offense',
-  'TSS_Skarm': 'TSS',
+  'Skarm_Spikes': 'TSS',
   'Mixed_Offense': 'Spikeless_Offense',
   'Spikeless_Balance': 'Other',
-  'TSS_Forre': 'TSS',
+  'Forre_Spikes': 'TSS',
   'Special_Offense': 'Spikeless_Offense',
   'Jolteon_Skarm': 'TSS',
   'Physical_Offense': 'Spikeless_Offense',
-  'Spikes_Offense': 'Other',
+  'Cloyster_Spikes': 'Other',
   'Misc': 'Other',
   'Incomplete': 'Ignore'
 }
