@@ -1,8 +1,8 @@
-const records = require('./spl7-data.json')
-const tags = require('./spl7-team-tags.json')
+const records = require('./full-data.json')
+const tags = require('./full-team-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'spl7-winrates-by-tag')
+const outfile = path.join(__dirname, 'Output', 'full-winrate-by-tag')
 
 function getTag(id) {
   const target = tags.find(tag => tag.id === id)
@@ -33,7 +33,7 @@ function displayCategory({wins, games, mirrors}, title) {
   const winrate = games ? Math.floor((wins / games) * 100) + '%' : 'All Mirrors'
   const mirrorString = mirrors ? ` (${mirrors} mirrors)` : ''
 
-  return `${title}: ${winrate}` + mirrorString + ` - Games: ${games + mirrors}`
+  return `${title}: ${winrate} - Games: ${games + mirrors}` + mirrorString
 }
 
 records.forEach(({p1, p2, id, url, winner}) => {

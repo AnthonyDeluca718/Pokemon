@@ -1,31 +1,32 @@
-const records = require('./spl7-data.json')
-const tags = require('./spl7-team-tags.json')
+const records = require('./full-data.json')
+const tags = require('./full-team-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'spl7-TSS_Spikeless')
+const outfile = path.join(__dirname, 'Output', 'full-mus')
 
 // 'Skarm_Mag', 'Physical_Mag', 'Skarm_Spikes', 'Mixed_Offense', 'Spikeless_Balance', 'Forre_Spikes', 'Special_Offense', 'Incomplete', 'Jolteon_Skarm', 'Physical_Offense', 'Cloyster_Spikes', 'Misc', 'Balanced_Mag'
 // Note we always ignore imcomplete. Misc is not obvious to handle
 
-const groupings = {
-  'Skarm_Mag': 'TSS',
-  'Physical_Mag': 'Spikeless_Offense',
-  'Skarm_Spikes': 'TSS',
-  'Mixed_Offense': 'Spikeless_Offense',
-  'Spikeless_Balance': 'Other',
-  'Forre_Spikes': 'TSS',
-  'Special_Offense': 'Spikeless_Offense',
-  'Jolteon_Skarm': 'TSS',
-  'Physical_Offense': 'Spikeless_Offense',
-  'Cloyster_Spikes': 'Other',
-  'Misc': 'Other',
-  'Incomplete': 'Ignore'
-}
+// const groupings = {
+//   'Skarm_Mag': 'TSS',
+//   'Physical_Mag': 'Spikeless_Offense',
+//   'Skarm_Spikes': 'TSS',
+//   'Mixed_Offense': 'Spikeless_Offense',
+//   'Spikeless_Balance': 'Other',
+//   'Forre_Spikes': 'TSS',
+//   'Special_Offense': 'Spikeless_Offense',
+//   'Jolteon_Skarm': 'TSS',
+//   'Physical_Offense': 'Spikeless_Offense',
+//   'Cloyster_Spikes': 'Other',
+//   'Misc': 'Other',
+//   'Incomplete': 'Ignore'
+// }
 
 function getTag(id) {
   const target = tags.find(tag => tag.id === id)
 
-  return groupings[target.tag]
+  // return groupings[target.tag]
+  return target.tag === 'Misc' || target.tag === 'Incomplete' ? 'Ignore' : target.tag
 }
 
 let mus = {}
@@ -38,16 +39,29 @@ function addMu({name, data}) {
 }
 
 const categories = {}
-function addResultToCategories ({category, win}) {
+function addResultToCategories ({category, win, isMirror}) {
   if (!categories[category]) {
     categories[category] = {
       wins: 0,
-      games: 0
+      games: 0,
+      mirrors: 0
     }
   }
 
-  categories[category].games += 1
-  categories[category].wins = win ? categories[category].wins + 1 : categories[category].wins
+  const target = categories[category]
+  if (isMirror) {
+    target.mirrors += 1
+  } else {
+    target.games += 1
+    target.wins = win ? categories[category].wins + 1 : categories[category].wins
+  }
+}
+
+function displayCategory({wins, games, mirrors}, title) {
+  const winrate = games ? Math.floor((wins / games) * 100) + '%' : 'All Mirrors'
+  const mirrorString = mirrors ? ` (${mirrors} mirrors)` : ''
+
+  return `${title}: ${winrate} - Games: ${games + mirrors}` + mirrorString
 }
 
 records.forEach(({p1, p2, id, url, winner}) => {
@@ -82,11 +96,13 @@ records.forEach(({p1, p2, id, url, winner}) => {
 
   addResultToCategories({
     category: tag1,
-    win: p1Win
+    win: p1Win,
+    isMirror
   })
   addResultToCategories({
     category: tag2,
-    win: !p1Win
+    win: !p1Win,
+    isMirror
   })
 })
 
@@ -109,16 +125,14 @@ function displayMuData(mu, title) {
   return lines.join("\n")
 }
 
-const categoryData = Object.keys(categories).filter(key => key !== 'Ignore').map(key => {
-  const {wins, games} = categories[key]
-  const winrate = Math.floor((wins / games) * 100) + '%'
-  return `${key}: ${winrate}`
-})
+const categoryData = Object.keys(categories).sort().filter(key => key !== 'Ignore')
+.map(key => displayCategory(categories[key], key))
+
 const categoryString = categoryData.join("\n")
 
-const muStrings = Object.keys(mus).map(key => displayMuData(mus[key], key))
+const muStrings = Object.keys(mus).sort().map(key => displayMuData(mus[key], key))
 const muOutput = muStrings.join("\n\n")
 
-const output = categoryString + "\n\n" + muOutput
+const output = categoryString + "\n\n\n" + muOutput
 
 fs.writeFileSync(outfile, output)

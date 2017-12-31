@@ -2,8 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
 
-const inFile = './spl7-teams' // add input file here
-const outFile = path.resolve(__dirname, 'spl7-team-tags.json') //add outfile here
+const inFile = './full-teams' // add input file here
+const outFile = path.resolve(__dirname, 'full-team-tags.json') //add outfile here
 
 let output = []
 let team = {
