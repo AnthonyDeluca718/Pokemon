@@ -1,18 +1,3 @@
-const groupings = {
-  'Skarm_Mag': 'TSS',
-  'Physical_Mag': 'Spikeless_Offense',
-  'Skarm_Spikes': 'TSS',
-  'Mixed_Offense': 'Spikeless_Offense',
-  'Spikeless_Balance': 'Other',
-  'Forre_Spikes': 'TSS',
-  'Special_Offense': 'Spikeless_Offense',
-  'Jolteon_Skarm': 'TSS',
-  'Physical_Offense': 'Spikeless_Offense',
-  'Cloyster_Spikes': 'Other',
-  'Misc': 'Other',
-  'Incomplete': 'Ignore'
-}
-
 77-p1
 Suicune Jirachi Porygon2 Regice
 Main: Special_Offense
@@ -267,7 +252,7 @@ Main: Physical_Offense
 
 112-p2
 Zapdos Snorlax Suicune Claydol Magneton Celebi
-Main: Special_Offense
+Main: Spikeless_Balance
 
 109-p1
 Celebi Swampert Blissey Starmie Skarmory Dugtrio
@@ -363,7 +348,7 @@ Main: Jolteon_Skarm
 
 59-p2
 Heracross Snorlax Metagross Tyranitar Aerodactyl Swampert
-Main: Physical_Mag
+Main: Physical_Offense
 
 116-p1
 Heracross Metagross Celebi Porygon2 Raikou Magneton
@@ -563,7 +548,7 @@ Main: Jolteon_Skarm
 
 61-p2
 Gengar Snorlax Starmie Jirachi Skarmory Tyranitar
-Main: Mixed_Offense
+Main: Skarm_Spikes
 
 147-p1
 Zapdos Metagross Porygon2 Raikou Heracross Suicune
