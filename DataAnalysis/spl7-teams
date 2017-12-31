@@ -36,7 +36,7 @@ Main: Special_Offense
 
 7-p2
 Snorlax Skarmory Blissey Suicune
-Main: Incomplete
+Main: Skarm_Spikes
 
 2-p1
 Swampert Blissey Tyranitar Dugtrio Skarmory Forretress
@@ -248,7 +248,7 @@ Main: Cloyster_Spikes
 
 12-p1
 Metagross Magneton Salamence Snorlax Heracross Swampert
-Main: Physical_Offense
+Main: Physical_Mag
 
 12-p2
 Gengar Forretress Swampert Tyranitar Blissey Chansey
@@ -324,7 +324,7 @@ Main: Spikeless_Balance
 
 43-p2
 Zapdos Snorlax Jirachi Dugtrio Suicune Gengar
-Main: Mixed_Offense
+Main: Spikeless_Balance
 
 36-p1
 Forretress Gengar Milotic Tyranitar Blissey Swampert
