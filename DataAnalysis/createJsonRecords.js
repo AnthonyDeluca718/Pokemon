@@ -2,7 +2,7 @@ const axios = require('axios')
 const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
-const parseReplay = require('./ReplayParser/parseReplay')
+const parseReplay = require('../ReplayParser/parseReplay')
 
 const inFile = './ADV-Analysis/spl7-wc11-wc12' // add input file here
 const startingIdx = 200 // initial index

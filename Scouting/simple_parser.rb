@@ -1,4 +1,3 @@
-
 teams = []
 file = File.open(ARGV[0], "r").read
 
