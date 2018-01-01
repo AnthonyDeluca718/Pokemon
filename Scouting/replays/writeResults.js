@@ -15,9 +15,15 @@ const promises = input.map(battle => {
   const url = battle.split(': ')[1]
   return axios.get(url).then( res => {
     const {winner, p1, p2} = parseReplay(res.data)
+
+    const noSwap = p1.name.includes(name)
+    const opponent = noSwap ? p2.name : p1.name
+    const title = `${opponent}: ${url}`
     const pokes1 = p1.pokes.map(pokeString).join(' ')
     const pokes2 = p2.pokes.map(pokeString).join(' ')
-    output.push([battle, pokes1, 'VS', pokes2].join('\n'))
+
+    const lines = noSwap ? [title, pokes1, 'VS', pokes2] : [title, pokes2, 'VS', pokes1]
+    output.push(lines.join('\n'))
   })
   .catch(err => console.log(err))
 })
