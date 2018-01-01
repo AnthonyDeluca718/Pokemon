@@ -1,10 +1,9 @@
-const records = require('./full-data.json')
-const tags = require('./full-team-tags.json')
+const records = require('./TempData/full-data.json')
+const tags = require('./TempData/full-team-tags.json')
 const fs = require('fs')
 const path = require('path')
 const outfile = path.join(__dirname, 'Output', 'full-mus')
-const csvfile = path.join(__dirname, 'Output', 'full-mus-csv.csv')
-const generateCSV = require('./generateCSV')
+// const generateCSV = require('./generateCSV')
 
 // 'Skarm_Mag', 'Physical_Mag', 'Skarm_Spikes', 'Mixed_Offense', 'Spikeless_Balance', 'Forre_Spikes', 'Special_Offense', 'Incomplete', 'Jolteon_Skarm', 'Physical_Offense', 'Cloyster_Spikes', 'Misc', 'Balanced_Mag'
 // Note we always ignore imcomplete. Misc is not obvious to handle
@@ -138,4 +137,4 @@ const muOutput = muStrings.join("\n\n")
 const output = categoryString + "\n\n\n" + muOutput
 
 fs.writeFileSync(outfile, output)
-fs.writeFileSync(csvfile, generateCSV(mus, categories))
+// fs.writeFileSync(csvfile, generateCSV(mus, categories))
