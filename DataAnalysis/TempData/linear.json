@@ -1,0 +1,4432 @@
+[
+  {
+    "winner": "VIL x",
+    "p1": {
+      "name": "VIL x",
+      "pokes": [
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Camerupt",
+          "moves": [
+            "Earthquake",
+            "Overheat"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Roar",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Moltres",
+          "moves": [
+            "Flamethrower",
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 202,
+    "context": [
+      "R2:",
+      "VIL",
+      "vs",
+      "Linear"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-578471010"
+  },
+  {
+    "winner": "W3K",
+    "p1": {
+      "name": "W3K",
+      "pokes": [
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Thunder-Wave"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Recover",
+            "Swords-Dance",
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gyarados",
+          "moves": [
+            "Dragon-Dance",
+            "Frustration",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Baton-Pass"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Protect",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [],
+          "item": ""
+        }
+      ]
+    },
+    "id": 204,
+    "context": [
+      "R3:",
+      "Linear",
+      "vs",
+      "W3K"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-584114999"
+  },
+  {
+    "winner": "thecurvyline",
+    "p1": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Thunder-Wave",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Earthquake",
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Ice-Beam",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "reyscarface14",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Baton-Pass",
+            "Leech-Seed",
+            "Substitute"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Shadow-Ball"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 200,
+    "context": [
+      "R1:",
+      "Linear",
+      "vs",
+      "Reyscarface"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-576018480"
+  },
+  {
+    "winner": "Pocket Coconuts",
+    "p1": {
+      "name": "broken dreams",
+      "pokes": [
+        {
+          "name": "Celebi",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "Pocket Coconuts",
+      "pokes": [
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hidden-Power",
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Dragon-Dance"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Alakazam",
+          "moves": [
+            "Psychic",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 209,
+    "context": [
+      "R4:",
+      "Linear",
+      "vs",
+      "TOF"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-589290540"
+  },
+  {
+    "winner": "broken dreams",
+    "p1": {
+      "name": "broken dreams",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Toxic",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Blissey",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Ice-Punch",
+            "Hypnosis",
+            "Focus-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Pocket Coconuts",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Flamethrower",
+            "Brick-Break",
+            "Dragon-Claw"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Psychic",
+            "Hidden-Power",
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Dragon-Dance",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Regice",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 208,
+    "context": [
+      "R4:",
+      "Linear",
+      "vs",
+      "TOF"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-589287552"
+  },
+  {
+    "winner": "glowing man I am",
+    "p1": {
+      "name": "thelinearcurve",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Toxic",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Thunder-Wave",
+            "Wish",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Fire-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "glowing man I am",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Mimic",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Ice-Beam",
+            "Toxic",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Toxic",
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 218,
+    "context": [
+      "Loser's",
+      "Semis:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-602230948"
+  },
+  {
+    "winner": "thecurvyline",
+    "p1": {
+      "name": "W3K",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Earthquake",
+            "Toxic",
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Recover",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Milotic",
+          "moves": [
+            "Hypnosis",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Dragon-Dance",
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Toxic",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Surf",
+            "Protect",
+            "Wish",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Heal-Bell",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 205,
+    "context": [
+      "R3:",
+      "Linear",
+      "vs",
+      "W3K"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-584117783"
+  },
+  {
+    "winner": "thecurvyline",
+    "p1": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Fire-Punch",
+            "Wish",
+            "Body-Slam",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Toxic",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Earthquake",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "reyscarface14",
+      "pokes": [
+        {
+          "name": "Jynx",
+          "moves": [
+            "Lovely-Kiss",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Earthquake",
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Will-O-Wisp",
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Claydol",
+          "moves": [
+            "Rapid-Spin",
+            "Psychic",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Hydro-Pump",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Calm-Mind",
+            "Hidden-Power",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 201,
+    "context": [
+      "R1:",
+      "Linear",
+      "vs",
+      "Reyscarface"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-576022110"
+  },
+  {
+    "winner": "thelinearcurve",
+    "p1": {
+      "name": "glowing man I am",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Leech-Seed",
+            "Psychic",
+            "Recover",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "thelinearcurve",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Dragon-Claw",
+            "Flamethrower",
+            "Brick-Break",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Surf",
+            "Toxic",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 219,
+    "context": [
+      "Loser's",
+      "Semis:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-602241937"
+  },
+  {
+    "winner": "VIL x",
+    "p1": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Ice-Beam",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Thunderbolt",
+            "Rapid-Spin",
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Fire-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Earthquake",
+            "Agility"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "VIL x",
+      "pokes": [
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Rest",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Ice-Beam",
+            "Soft-Boiled",
+            "Thunderbolt",
+            "Calm-Mind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Claydol",
+          "moves": [
+            "Rapid-Spin",
+            "Refresh",
+            "Psychic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Taunt"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 203,
+    "context": [
+      "R2:",
+      "VIL",
+      "vs",
+      "Linear"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-578465326"
+  },
+  {
+    "winner": "Pocket Coconuts",
+    "p1": {
+      "name": "Pocket Coconuts",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Explosion"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Moltres",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Toxic",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake",
+            "Protect"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "broken dreams",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Hidden-Power",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Thunder-Wave"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Calm-Mind",
+            "Psychic"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Swords-Dance",
+            "Brick-Break"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 207,
+    "context": [
+      "R4:",
+      "Linear",
+      "vs",
+      "TOF"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-589285796"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Thunderbolt",
+            "Baton-Pass",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Double-Edge"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-*-",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Soft-Boiled",
+            "Counter"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 237,
+    "context": [
+      "Grand",
+      "Finals",
+      "2:",
+      "Linear",
+      "vs",
+      "MDragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-608136170"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Protect"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Porygon2",
+          "moves": [
+            "Recover",
+            "Ice-Beam",
+            "Thunderbolt",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Earthquake",
+            "Hidden-Power",
+            "Rock-Slide",
+            "Dragon-Dance"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Swords-Dance",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-*-",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake",
+            "Struggle"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Psychic",
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Soft-Boiled",
+            "Ice-Beam",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 236,
+    "context": [
+      "Grand",
+      "Finals",
+      "2:",
+      "Linear",
+      "vs",
+      "MDragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-608133423"
+  },
+  {
+    "winner": "Just a Patzer",
+    "p1": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Ice-Beam",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Flamethrower",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "BKC",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Fire-Punch",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Wish",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 212,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-594015600"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Thunderbolt",
+            "Baton-Pass",
+            "Roar"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Roar",
+            "Toxic",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Rock-Slide",
+            "Earthquake",
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Ice-Punch",
+            "Hypnosis",
+            "Fire-Punch",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder-Wave",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Focus-Punch",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 231,
+    "context": [
+      "Grand",
+      "Finals",
+      "1:",
+      "Linear",
+      "vs",
+      "Mdragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-305001"
+  },
+  {
+    "winner": "thecurvyline",
+    "p1": {
+      "name": "thecurvyline",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Flamethrower",
+            "Dragon-Claw",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Swords-Dance",
+            "Megahorn",
+            "Focus-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Hidden-Power",
+            "Meteor-Mash",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "W3K",
+      "pokes": [
+        {
+          "name": "Celebi",
+          "moves": [
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Roar",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Protect",
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Protect",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 206,
+    "context": [
+      "R3:",
+      "Linear",
+      "vs",
+      "W3K"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-584124587"
+  },
+  {
+    "winner": "thelinearcurve",
+    "p1": {
+      "name": "glowing man I am",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Earthquake",
+            "Shadow-Ball"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Toxic"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Toxic",
+            "Thunderbolt",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Dragon-Dance",
+            "Protect",
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "thelinearcurve",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Substitute",
+            "Baton-Pass",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Thunder-Wave",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 221,
+    "context": [
+      "Loser's",
+      "Semis:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-602248410"
+  },
+  {
+    "winner": "thelinearcurve",
+    "p1": {
+      "name": "thelinearcurve",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Ice-Beam",
+            "Surf",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Fire-Punch",
+            "Calm-Mind",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Psychic",
+            "Calm-Mind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Porygon2",
+          "moves": [
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "glowing man I am",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Brick-Break"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Light-Screen"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Toxic",
+            "Spikes",
+            "Protect",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Light-Screen",
+            "Recover",
+            "Hidden-Power",
+            "Leech-Seed"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Destiny-Bond"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 222,
+    "context": [
+      "Loser's",
+      "Semis:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-602251529"
+  },
+  {
+    "winner": "M Dragon -*-",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Baton-Pass",
+            "Agility"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Dragon-Dance",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Marowak",
+          "moves": [
+            "Rock-Slide",
+            "Double-Edge",
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Surf"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-",
+      "pokes": [
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Baton-Pass",
+            "Roar",
+            "Thunderbolt",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide",
+            "Double-Edge"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Fire-Punch",
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 230,
+    "context": [
+      "Grand",
+      "Finals",
+      "1:",
+      "Linear",
+      "vs",
+      "Mdragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-304998"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Protect",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Hidden-Power",
+            "Leech-Seed",
+            "Recover",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Donphan",
+          "moves": [
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Milotic",
+          "moves": [
+            "Surf",
+            "Toxic",
+            "Recover"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "The real UD",
+      "pokes": [
+        {
+          "name": "Celebi",
+          "moves": [
+            "Substitute",
+            "Baton-Pass",
+            "Leech-Seed",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Hidden-Power",
+            "Toxic",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Surf",
+            "Toxic",
+            "Protect"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 226,
+    "context": [
+      "Loser's",
+      "Finals:",
+      "Linear",
+      "vs",
+      "UD"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-302452"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Toxic",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Soft-Boiled",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Surf",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Moltres",
+          "moves": [
+            "Flamethrower",
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-*-",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Fire-Blast",
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Toxic",
+            "Soft-Boiled",
+            "Ice-Beam",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Rock-Slide",
+            "Toxic",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Ice-Punch",
+            "Hidden-Power",
+            "Fire-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 233,
+    "context": [
+      "Grand",
+      "Finals",
+      "2:",
+      "Linear",
+      "vs",
+      "MDragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-608123289"
+  },
+  {
+    "winner": "M Dragon -*-*-",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Explosion"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Flamethrower",
+            "Toxic",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Ice-Beam",
+            "Thunder-Wave",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Double-Edge",
+            "Hidden-Power"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-*-",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Hidden-Power",
+            "Thunderbolt",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Earthquake",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gyarados",
+          "moves": [
+            "Dragon-Dance",
+            "Earthquake",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 235,
+    "context": [
+      "Grand",
+      "Finals",
+      "2:",
+      "Linear",
+      "vs",
+      "MDragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-608131560"
+  },
+  {
+    "winner": "Fakkesi",
+    "p1": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Heracross",
+          "moves": [
+            "Megahorn"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Protect",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Fakkesi",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Roar",
+            "Calm-Mind",
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Weezing",
+          "moves": [
+            "Will-O-Wisp",
+            "Pain-Split"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Claydol",
+          "moves": [
+            "Psychic"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Aerial-Ace"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 217,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "Fakes"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-595904886"
+  },
+  {
+    "winner": "BKC",
+    "p1": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Toxic",
+            "Soft-Boiled",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Flamethrower"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "BKC",
+      "pokes": [
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Thunderbolt",
+            "Toxic",
+            "Wish",
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Milotic",
+          "moves": [
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Toxic",
+            "Dragon-Claw"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 213,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-594018069"
+  },
+  {
+    "winner": "glowing man I am",
+    "p1": {
+      "name": "thelinearcurve",
+      "pokes": [
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Claydol",
+          "moves": [
+            "Earthquake",
+            "Psychic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Toxic",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "glowing man I am",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Fire-Blast",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Wish",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 220,
+    "context": [
+      "Loser's",
+      "Semis:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-602244808"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Moltres",
+          "moves": [
+            "Flamethrower",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "The real UD",
+      "pokes": [
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Hidden-Power",
+            "Calm-Mind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Regice",
+          "moves": [
+            "Ice-Beam",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 225,
+    "context": [
+      "Loser's",
+      "Finals:",
+      "Linear",
+      "vs",
+      "UD"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-302448"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Heracross",
+          "moves": [
+            "Megahorn"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt",
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Surf",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Double-Edge"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Earthquake",
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Ice-Beam",
+            "Soft-Boiled",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunder-Wave"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Toxic",
+            "Ice-Beam",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 232,
+    "context": [
+      "Grand",
+      "Finals",
+      "1:",
+      "Linear",
+      "vs",
+      "Mdragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-305008"
+  },
+  {
+    "winner": "M Dragon -*-",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Soft-Boiled",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Protect"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Donphan",
+          "moves": [
+            "Rapid-Spin",
+            "Protect",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Hidden-Power",
+            "Meteor-Mash",
+            "Psychic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Giga-Drain",
+            "Ice-Punch",
+            "Hypnosis"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 229,
+    "context": [
+      "Grand",
+      "Finals",
+      "1:",
+      "Linear",
+      "vs",
+      "Mdragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-304994"
+  },
+  {
+    "winner": "Just a Patzer",
+    "p1": {
+      "name": "BKC",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Light-Screen",
+            "Thunderbolt",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Leech-Seed",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Ice-Punch",
+            "Hypnosis",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Toxic",
+            "Surf",
+            "Protect"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Brick-Break"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Fire-Blast",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Double-Edge"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Calm-Mind",
+            "Fire-Punch",
+            "Hidden-Power",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Surf",
+            "Protect",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 214,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "BKC"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-594020307"
+  },
+  {
+    "winner": "Fakkesi",
+    "p1": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Toxic",
+            "Thunderbolt",
+            "Rest",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Wish",
+            "Body-Slam",
+            "Fire-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Ice-Punch",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Surf",
+            "Roar",
+            "Protect"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Fakkesi",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Toxic",
+            "Thunderbolt",
+            "Rest",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Calm-Mind",
+            "Roar",
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Weezing",
+          "moves": [
+            "Sludge-Bomb",
+            "Pain-Split",
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Claydol",
+          "moves": [
+            "Rapid-Spin"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Calm-Mind",
+            "Psychic",
+            "Fire-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 215,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "Fakes"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-595890349"
+  },
+  {
+    "winner": "M Dragon -*-*-",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Rock-Slide",
+            "Brick-Break"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Leech-Seed",
+            "Psychic",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Hidden-Power",
+            "Pursuit",
+            "Flamethrower"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-*-",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Toxic",
+            "Roar",
+            "Rest",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Hidden-Power",
+            "Fire-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Hidden-Power",
+            "Rock-Slide",
+            "Earthquake",
+            "Aerial-Ace"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 234,
+    "context": [
+      "Grand",
+      "Finals",
+      "2:",
+      "Linear",
+      "vs",
+      "MDragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-608127677"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Baton-Pass",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Surf",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jirachi",
+          "moves": [
+            "Thunderbolt",
+            "Psychic",
+            "Substitute",
+            "Calm-Mind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Dragon-Dance"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "The real UD",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Earthquake",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Fire-Blast",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Baton-Pass",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Dragon-Claw",
+            "Hidden-Power",
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Protect",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Dragon-Dance",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 227,
+    "context": [
+      "Loser's",
+      "Finals:",
+      "Linear",
+      "vs",
+      "UD"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-302457"
+  },
+  {
+    "winner": "The Nut Blocker",
+    "p1": {
+      "name": "The Nut Blocker",
+      "pokes": [
+        {
+          "name": "Moltres",
+          "moves": [
+            "Flamethrower",
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Soft-Boiled",
+            "Seismic-Toss",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Will-O-Wisp",
+            "Ice-Punch",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Flamethrower",
+            "Crunch",
+            "Brick-Break"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "eden's embrace",
+      "pokes": [
+        {
+          "name": "Salamence",
+          "moves": [
+            "Dragon-Claw",
+            "Wish",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Soft-Boiled",
+            "Toxic",
+            "Ice-Beam",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Hidden-Power",
+            "Thunderbolt"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Surf",
+            "Protect",
+            "Roar",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 210,
+    "context": [
+      "R5:",
+      "Linear",
+      "Eden's",
+      "Embrace"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-591883564"
+  },
+  {
+    "winner": "The real UD",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Metagross",
+          "moves": [
+            "Hidden-Power",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Dragon-Dance",
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Brick-Break",
+            "Dragon-Claw"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "The real UD",
+      "pokes": [
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Fire-Blast",
+            "Toxic",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar",
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Hydro-Pump",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 224,
+    "context": [
+      "Loser's",
+      "Finals:",
+      "Linear",
+      "vs",
+      "UD"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-302441"
+  },
+  {
+    "winner": "The real UD",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dugtrio",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "The real UD",
+      "pokes": [
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Thunderbolt",
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Protect",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Earthquake",
+            "Protect",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Mantine",
+          "moves": [
+            "Toxic",
+            "Ice-Beam",
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 223,
+    "context": [
+      "Loser's",
+      "Finals:",
+      "Linear",
+      "vs",
+      "UD"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-302437"
+  },
+  {
+    "winner": "Just a Patzer",
+    "p1": {
+      "name": "Fakkesi",
+      "pokes": [
+        {
+          "name": "Swampert",
+          "moves": [
+            "Protect",
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Leech-Seed",
+            "Recover",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Spikes",
+            "Whirlwind",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Hidden-Power",
+            "Toxic",
+            "Protect",
+            "Thunderbolt"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "Just a Patzer",
+      "pokes": [
+        {
+          "name": "Metagross",
+          "moves": [
+            "Meteor-Mash",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Celebi",
+          "moves": [
+            "Hidden-Power",
+            "Recover",
+            "Leech-Seed"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Milotic",
+          "moves": [
+            "Recover",
+            "Surf",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Thunderbolt",
+            "Giga-Drain",
+            "Ice-Punch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 216,
+    "context": [
+      "R6:",
+      "Linear",
+      "vs",
+      "Fakes"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-595898492"
+  },
+  {
+    "winner": "The Nut Blocker",
+    "p1": {
+      "name": "eden's embrace",
+      "pokes": [
+        {
+          "name": "Heracross",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Earthquake",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "The Nut Blocker",
+      "pokes": [
+        {
+          "name": "Moltres",
+          "moves": [
+            "Will-O-Wisp"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Ice-Beam",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Seismic-Toss",
+            "Ice-Beam",
+            "Toxic",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Will-O-Wisp",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 211,
+    "context": [
+      "R5:",
+      "Linear",
+      "Eden's",
+      "Embrace"
+    ],
+    "url": "http://replay.pokemonshowdown.com/gen3ou-591887405"
+  },
+  {
+    "winner": "1inear",
+    "p1": {
+      "name": "1inear",
+      "pokes": [
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Baton-Pass",
+            "Thunderbolt",
+            "Roar",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Swampert",
+          "moves": [
+            "Hydro-Pump",
+            "Earthquake",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Fire-Blast",
+            "Rock-Slide",
+            "Focus-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Ice-Punch",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Aerodactyl",
+          "moves": [
+            "Double-Edge"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "M Dragon -*-",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Earthquake",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Milotic",
+          "moves": [
+            "Hypnosis",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Magneton",
+          "moves": [
+            "Thunderbolt",
+            "Thunder-Wave"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam",
+            "Rest",
+            "Shadow-Ball"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Flygon",
+          "moves": [
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Salamence",
+          "moves": [
+            "Hidden-Power",
+            "Rock-Slide"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 228,
+    "context": [
+      "Grand",
+      "Finals",
+      "1:",
+      "Linear",
+      "vs",
+      "Mdragon"
+    ],
+    "url": "http://replay.pokemonshowdown.com/smogtours-gen3ou-304989"
+  }
+]

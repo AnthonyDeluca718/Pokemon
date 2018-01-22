@@ -8,7 +8,7 @@ function pokeString(poke) {
     moveString = moveString.trim()
   }
 
-  var ret = poke.name + " ("
+  var ret = poke.name + "("
 
   if (poke.item === "leftovers" && !poke.moves.includes("Trick")) { //check
     ret += "Lefties "
