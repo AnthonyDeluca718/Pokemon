@@ -12,7 +12,7 @@ Main: Boom
 
 0-p2
 Raikou Starmie Skarmory Snorlax Miltank Marowak
-Main: Bulky
+Main: Semistall
 
 1-p1
 Snorlax Zapdos Steelix Cloyster Machamp Jynx
@@ -20,11 +20,11 @@ Main: Offense
 
 1-p2
 Exeggutor Steelix Forretress Zapdos Snorlax Vaporeon
-Main: Boom
+Main: Offense
 
 4-p1
 Snorlax Raikou Heracross Cloyster Rhydon
-Main: Offense
+Main: Bulky
 
 4-p2
 Raikou Skarmory Tyranitar Snorlax Starmie Heracross
@@ -48,111 +48,111 @@ Main: Boom
 
 29-p1
 Snorlax Tentacruel Umbreon Zapdos Cloyster Steelix
-Main: Offense
+Main: Bulky
 
 29-p2
 Raikou Cloyster Tyranitar Exeggutor Snorlax
-Main: Offense
+Main: Boom
 
 27-p1
 Raikou Cloyster Machamp Skarmory Snorlax Umbreon
-Main:
+Main: Semistall
 
 27-p2
 Zapdos Snorlax Marowak Cloyster Skarmory Miltank
-Main:
+Main: Bulky
 
 8-p1
 Raikou Snorlax Cloyster Dragonite Umbreon
-Main:
+Main: Semistall
 
 8-p2
 Zapdos Snorlax Rhydon Cloyster Heracross Exeggutor
-Main:
+Main: Boom
 
 56-p1
 Tyranitar Zapdos Cloyster Snorlax Nidoking Marowak
-Main:
+Main: Offense
 
 56-p2
 Nidoking Snorlax Forretress Zapdos Vaporeon Tyranitar
-Main:
+Main: Offense
 
 72-p1
 Gengar Rhydon Snorlax Vaporeon Forretress Exeggutor
-Main:
+Main: Boom
 
 72-p2
 Zapdos Exeggutor Cloyster Snorlax Steelix Vaporeon
-Main:
+Main: Boom
 
 20-p1
 Snorlax Cloyster Raikou Heracross Tyranitar Machamp
-Main:
+Main: Offense
 
 20-p2
 Zapdos Cloyster Exeggutor Snorlax Machamp Tyranitar
-Main:
+Main: Offense
 
 65-p1
 Nidoking Snorlax Forretress Exeggutor Tyranitar Vaporeon
-Main:
+Main: Offense
 
 65-p2
 Zapdos Steelix Cloyster Exeggutor Snorlax Vaporeon
-Main:
+Main: Boom
 
 12-p1
 Snorlax Zapdos Steelix Cloyster Jynx Exeggutor
-Main:
+Main: Boom
 
 12-p2
 Exeggutor Snorlax Zapdos Marowak Steelix Cloyster
-Main:
+Main: Boom
 
 30-p1
 Raikou Skarmory Snorlax Gengar Zapdos Cloyster
-Main:
+Main: Semistall
 
 30-p2
 Snorlax Cloyster Nidoking Zapdos Tyranitar Machamp
-Main:
+Main: Offense
 
 96-p1
 Nidoking Zapdos Cloyster Tyranitar Snorlax Machamp
-Main:
+Main: Offense
 
 96-p2
 Raikou Heracross Cloyster Snorlax Steelix Gengar
-Main:
+Main: Boom
 
 81-p1
 Raikou Misdreavus Forretress Snorlax Skarmory Suicune
-Main:
+Main: Semistall
 
 81-p2
 Zapdos Snorlax Rhydon Blissey Skarmory Starmie
-Main:
+Main: Semistall
 
 69-p1
 Exeggutor Zapdos Snorlax Cloyster Rhydon Espeon
-Main:
+Main: Offense
 
 69-p2
 Exeggutor Steelix Jynx Snorlax Cloyster Zapdos
-Main:
+Main: Boom
 
 26-p1
 Zapdos Quagsire Snorlax Miltank Starmie Tyranitar
-Main:
+Main: X
 
 26-p2
 Raikou Skarmory Forretress Umbreon Snorlax Zapdos
-Main:
+Main: Semistall
 
 63-p1
 Raikou Cloyster Skarmory Suicune Snorlax Tyranitar
-Main:
+Main: Semistall
 
 63-p2
 Zapdos Steelix Snorlax Dragonite Cloyster Charizard
@@ -160,83 +160,83 @@ Main:
 
 28-p1
 Snorlax Nidoking Umbreon Forretress Exeggutor Machamp
-Main:
+Main: Offense
 
 28-p2
 Zapdos Gengar Cloyster Snorlax Marowak Exeggutor
-Main:
+Main: Boom
 
 112-p1
 Snorlax Steelix Cloyster Tyranitar Zapdos Vaporeon
-Main:
+Main: X
 
 112-p2
 Snorlax Misdreavus Cloyster Zapdos Steelix Exeggutor
-Main:
+Main: Boom
 
 14-p1
 Zapdos Snorlax Cloyster Gengar Steelix Jynx
-Main:
+Main: Boom
 
 14-p2
 Snorlax Raikou Cloyster Exeggutor Golem Heracross
-Main:
+Main: Boom
 
 34-p1
 Zapdos Steelix Cloyster Snorlax Exeggutor Machamp
-Main:
+Main: Boom
 
 34-p2
 Raikou Snorlax Forretress Misdreavus Heracross Suicune
-Main:
+Main: Bulky
 
 17-p1
 Smeargle Snorlax Zapdos Gengar Machamp Exeggutor
-Main:
+Main: Offense
 
 17-p2
 Zapdos Gengar Snorlax Forretress Rhydon Alakazam
-Main:
+Main: X
 
 68-p1
 Cloyster Steelix Zapdos Snorlax Exeggutor Machamp
-Main:
+Main: Boom
 
 68-p2
 Zapdos Exeggutor Snorlax Nidoking Forretress Umbreon
-Main:
+Main: Bulky
 
 93-p1
 Raikou Snorlax Skarmory Misdreavus Forretress Suicune
-Main:
+Main: Semistall
 
 93-p2
 Zapdos Snorlax Cloyster Marowak Machamp Exeggutor
-Main:
+Main: Offense
 
 10-p1
 Zapdos Forretress Snorlax Exeggutor Rhydon Espeon
-Main:
+Main: X
 
 10-p2
 Snorlax Raikou Cloyster Rhydon Heracross Tentacruel
-Main:
+Main: X
 
 50-p1
 Porygon2 Cloyster Zapdos Snorlax Rhydon Exeggutor
-Main:
+Main: X
 
 50-p2
 Forretress Steelix Umbreon Muk Kangaskhan Snorlax
-Main:
+Main: X
 
 22-p1
 Snorlax Forretress Exeggutor Zapdos Gengar Rhydon
-Main:
+Main: Offense
 
 22-p2
 Exeggutor Cloyster Zapdos Tyranitar Snorlax Vaporeon
-Main:
+Main: X
 
 97-p1
 Snorlax Skarmory Nidoking Umbreon Exeggutor Forretress
@@ -252,7 +252,7 @@ Main:
 
 16-p2
 Raikou Skarmory Cloyster Snorlax Umbreon Zapdos
-Main:
+Main: Semistall
 
 5-p1
 Exeggutor Zapdos Golem Scizor Snorlax Tentacruel
@@ -260,7 +260,7 @@ Main:
 
 5-p2
 Raikou Suicune Snorlax Tyranitar Forretress Skarmory
-Main:
+Main: Semistall
 
 107-p1
 Snorlax Exeggutor Zapdos Steelix Starmie Marowak
@@ -284,7 +284,7 @@ Main:
 
 74-p2
 Snorlax Vaporeon Misdreavus Skarmory Raikou Forretress
-Main:
+Main: Semistall
 
 119-p1
 Raikou Vaporeon Cloyster Snorlax Machamp Exeggutor
@@ -292,11 +292,11 @@ Main:
 
 119-p2
 Nidoking Cloyster Raikou Snorlax Tyranitar Skarmory
-Main:
+Main: Bulky
 
 89-p1
 Zapdos Snorlax Cloyster Raikou Skarmory Rhydon
-Main:
+Main: Semistall
 
 89-p2
 Raikou Tyranitar Forretress Snorlax Heracross Starmie
@@ -304,11 +304,11 @@ Main:
 
 83-p1
 Raikou Zapdos Snorlax Cloyster Misdreavus Skarmory
-Main:
+Main: Semistall
 
 83-p2
 Raikou Cloyster Umbreon Snorlax Miltank Skarmory
-Main:
+Main: Semistall
 
 53-p1
 Nidoking Zapdos Cloyster Snorlax Tyranitar Machamp
@@ -332,7 +332,7 @@ Main:
 
 39-p2
 Cloyster Snorlax Misdreavus Piloswine Suicune Skarmory
-Main:
+Main: Semistall
 
 90-p1
 Nidoking Machamp Tyranitar Zapdos Cloyster Snorlax
@@ -344,7 +344,7 @@ Main:
 
 117-p1
 Raikou Cloyster Suicune Skarmory Umbreon Snorlax
-Main:
+Main: Semistall
 
 117-p2
 Smeargle Scizor Snorlax Jolteon Machamp Marowak
@@ -364,7 +364,7 @@ Main:
 
 32-p2
 Snorlax Skarmory Cloyster Raikou Miltank Nidoking
-Main:
+Main: Semistall
 
 94-p1
 Zapdos Snorlax Cloyster Steelix Exeggutor Vaporeon
@@ -372,15 +372,15 @@ Main:
 
 94-p2
 Snorlax Raikou Cloyster Zapdos Skarmory Gengar
-Main:
+Main: Semistall
 
 3-p1
 Zapdos Skarmory Snorlax Cloyster Donphan Misdreavus
-Main:
+Main: Semistall
 
 3-p2
 Raikou Snorlax Marowak Skarmory Miltank Starmie
-Main:
+Main: Semistall
 
 85-p1
 Snorlax Zapdos Tyranitar Cloyster Nidoking Machamp
@@ -392,15 +392,15 @@ Main:
 
 21-p1
 Muk Gengar Snorlax Skarmory Raikou Cloyster
-Main:
+Main: Semistall
 
 21-p2
 Raikou Skarmory Forretress Misdreavus Zapdos Snorlax
-Main:
+Main: Semistall
 
 18-p1
 Raikou Skarmory Cloyster Heracross Tyranitar
-Main:
+Main: Bulky
 
 18-p2
 Zapdos Snorlax Cloyster Golem Gengar Jynx
@@ -412,7 +412,7 @@ Main:
 
 75-p2
 Raikou Snorlax Skarmory Miltank Starmie Marowak
-Main:
+Main: Semistall
 
 120-p1
 Exeggutor Steelix Zapdos Cloyster Nidoking Snorlax
@@ -424,15 +424,15 @@ Main:
 
 109-p1
 Zapdos Cloyster Snorlax Skarmory Rhydon Exeggutor
-Main:
+Main: Bulky
 
 109-p2
 Raikou Starmie Skarmory Tyranitar Machamp Snorlax
-Main:
+Main: Bulky
 
 103-p1
 Raikou Heracross Cloyster Snorlax Skarmory Tyranitar
-Main:
+Main: Bulky
 
 103-p2
 Nidoking Cloyster Zapdos Snorlax Tyranitar Gengar
@@ -444,11 +444,11 @@ Main:
 
 15-p2
 Snorlax Forretress Skarmory Misdreavus Vaporeon Blissey
-Main:
+Main: Semistall
 
 42-p1
 Zapdos Starmie Skarmory Snorlax Quagsire Miltank
-Main:
+Main: Semistall
 
 42-p2
 Snorlax Raikou Golem Exeggutor Cloyster Heracross
