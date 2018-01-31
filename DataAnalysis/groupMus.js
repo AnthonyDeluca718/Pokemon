@@ -1,12 +1,9 @@
-const records = require('./TempData/full-data.json')
-const tags = require('./TempData/full-team-tags.json')
+const records = require('./TempData/GSC1-records.json')
+const tags = require('./TempData/GSC1-team-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'full-mus')
-// const generateCSV = require('./generateCSV')
+const outfile = path.join(__dirname, 'Output', 'gsc-mus')
 
-// 'Skarm_Mag', 'Physical_Mag', 'Skarm_Spikes', 'Mixed_Offense', 'Spikeless_Balance', 'Forre_Spikes', 'Special_Offense', 'Incomplete', 'Jolteon_Skarm', 'Physical_Offense', 'Cloyster_Spikes', 'Misc', 'Balanced_Mag'
-// Note we always ignore imcomplete. Misc is not obvious to handle
 
 // const groupings = {
 //   'Skarm_Mag': 'TSS',
@@ -22,6 +19,7 @@ const outfile = path.join(__dirname, 'Output', 'full-mus')
 //   'Misc': 'Other',
 //   'Incomplete': 'Ignore'
 // }
+
 
 function getTag(id) {
   const target = tags.find(tag => tag.id === id)
