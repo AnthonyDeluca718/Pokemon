@@ -2,8 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
 
-const inFile = './TempData/full-teams' // add input file here
-const outFile = path.resolve(__dirname, 'TempData', 'full-team-tags.json') //add outfile here
+const inFile = './TempData/GSC1-teams' // add input file here
+const outFile = path.resolve(__dirname, 'TempData', 'GSC1-team-tags.json') //add outfile here
 
 let output = []
 let team = {
