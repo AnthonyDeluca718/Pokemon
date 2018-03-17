@@ -4,9 +4,9 @@ const path = require('path')
 const readline = require('readline')
 const parseReplay = require('../ReplayParser/parseReplay')
 
-const inFile = './GSC-Analysis/SPL8-WC12-WC11' // add input file here
+const inFile = './ADV-Analysis/spl9' // add input file here
 const startingIdx = 0 // initial index
-const outFile = path.resolve(__dirname, 'TempData', 'GSC1.json') //add outfile here
+const outFile = path.resolve(__dirname, 'TempData', 'ADV-SPL9.json') //add outfile here
 
 let data = []
 let output = []
