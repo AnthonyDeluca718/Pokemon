@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
-const records = require('./TempData/ADV-SPL9.json')
-const outfile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams')
+const records = require('./TempData/GSC-SPL9-Part2.json')
+const outfile = path.resolve(__dirname, 'TempData', 'GSC-SPL9-Part2-teams')
 
 function format (data) {
   const pokes1 = data.p1.pokes.map(poke => poke.name).join(' ')

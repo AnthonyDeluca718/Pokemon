@@ -1,8 +1,8 @@
-const records = require('./TempData/spl7-wc11-wc12-records.json')
-const tags = require('./TempData/spl7-wc11-wc12-tags.json')
+const records = require('./TempData/adv-full-data.json')
+const tags = require('./TempData/adv-full-team-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'newstuff-winrate-by-tag')
+const outfile = path.join(__dirname, 'Output', 'adv-post-spl9-winrate-by-tag')
 
 function getTag(id) {
   const target = tags.find(tag => tag.id === id)

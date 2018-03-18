@@ -1,8 +1,8 @@
-const records = require('./TempData/GSC1-records.json')
-const tags = require('./TempData/GSC1-team-tags.json')
+const records = require('./TempData/gsc-full-data.json')
+const tags = require('./TempData/gsc-full-team-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'gsc-mus')
+const outfile = path.join(__dirname, 'Output', 'gsc-post-spl9-mus')
 
 
 // const groupings = {

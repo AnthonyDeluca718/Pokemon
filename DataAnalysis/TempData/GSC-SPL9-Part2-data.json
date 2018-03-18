@@ -1,0 +1,2915 @@
+[
+  {
+    "winner": "Fear",
+    "p1": {
+      "name": "Fear",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Thief",
+            "Earthquake",
+            "Ice-Beam",
+            "Flamethrower"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thief",
+            "Thunderbolt",
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Hidden-Power",
+            "Thunder"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Chool G Rap",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Lovely-Kiss",
+            "Curse",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar",
+            "Thunder"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Marowak",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Rhydon",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 104,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-347987"
+  },
+  {
+    "winner": "Pleasure",
+    "p1": {
+      "name": "Pleasure",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Lovely-Kiss",
+            "Double-Edge",
+            "Thunder",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Curse",
+            "Iron-Tail",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Earthquake",
+            "Screech"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "giara",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Curse",
+            "Rest",
+            "Flamethrower"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Megahorn",
+            "Rest",
+            "Sleep-Talk",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder",
+            "Roar",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Surf"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 103,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-349573"
+  },
+  {
+    "winner": "Century Express",
+    "p1": {
+      "name": "Century Express",
+      "pokes": [
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Sleep-Talk",
+            "Curse",
+            "Rest",
+            "Megahorn"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam",
+            "Earthquake",
+            "Self-Destruct"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Curse",
+            "Earthquake",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Hidden-Power",
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Lovely-Kiss",
+            "Earthquake",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Earthquake",
+            "Curse"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 101,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-348143"
+  },
+  {
+    "winner": "Fear",
+    "p1": {
+      "name": "Mr.E",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Hidden-Power",
+            "Thunder",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunderbolt",
+            "Mean-Look",
+            "Perish-Song",
+            "Protect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Fear",
+      "pokes": [
+        {
+          "name": "Smeargle",
+          "moves": [
+            "Spore",
+            "Spikes",
+            "Present",
+            "Sacred-Fire"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Flamethrower",
+            "Double-Edge",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thief",
+            "Thunderbolt",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Surf",
+            "Psychic"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 115,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-355821"
+  },
+  {
+    "winner": "Pleasure",
+    "p1": {
+      "name": "Pleasure",
+      "pokes": [
+        {
+          "name": "Jynx",
+          "moves": [
+            "Thief",
+            "Lovely-Kiss",
+            "Psychic",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Roar",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf",
+            "Ice-Beam",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunder",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Charizard",
+          "moves": [
+            "Earthquake",
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Thunder",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Tiba",
+      "pokes": [
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Rapid-Spin",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Rock-Slide",
+            "Dynamic-Punch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Return"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dragonite",
+          "moves": [
+            "Thunder"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 120,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-357478"
+  },
+  {
+    "winner": "Fear",
+    "p1": {
+      "name": "Pleasure",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Reflect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Curse",
+            "Cross-Chop",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gligar",
+          "moves": [
+            "Thief"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Return",
+            "Lovely-Kiss",
+            "Belly-Drum"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tentacruel",
+          "moves": [
+            "Rapid-Spin",
+            "Surf",
+            "Screech",
+            "Sludge-Bomb"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Crunch",
+            "Pursuit",
+            "Roar"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Fear",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar",
+            "Thunderbolt",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Drill-Peck"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Toxic",
+            "Pain-Split"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 108,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-352185"
+  },
+  {
+    "winner": null,
+    "p1": {
+      "name": "run the chools",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Toxic",
+            "Pain-Split",
+            "Destiny-Bond",
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Rest",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Rest",
+            "Flamethrower",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Hidden-Power",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Curse",
+            "Drill-Peck",
+            "Rest",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Earthquake",
+            "Belly-Drum",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Drill-Peck",
+            "Whirlwind",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf",
+            "Toxic",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Blissey",
+          "moves": [
+            "Ice-Beam",
+            "Sing",
+            "Present",
+            "Soft-Boiled"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Miltank",
+          "moves": [
+            "Heal-Bell",
+            "Growl",
+            "Milk-Drink",
+            "Body-Slam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Surf",
+            "Psychic",
+            "Rapid-Spin",
+            "Recover"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 106,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-349959"
+  },
+  {
+    "winner": "giara",
+    "p1": {
+      "name": "Jimmy Turtwig",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Psychic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Megahorn"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "giara",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Earthquake",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam",
+            "Earthquake",
+            "Lovely-Kiss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Dragonite",
+          "moves": [
+            "Thunder-Wave",
+            "Dynamic-Punch",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Surf",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 105,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-350857"
+  },
+  {
+    "winner": "Jimmy Turtwig",
+    "p1": {
+      "name": "",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder-Wave",
+            "Thunder",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar",
+            "Fire-Blast",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Stun-Spore",
+            "Psychic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Marowak",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "p2": {
+      "name": "Jimmy Turtwig",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge",
+            "Lovely-Kiss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Roar",
+            "Curse",
+            "Earthquake",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 116,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-354615"
+  },
+  {
+    "winner": "Tiba",
+    "p1": {
+      "name": "Century Express",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Body-Slam",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Ice-Punch",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Tiba",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Hidden-Power",
+            "Thunder",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Curse",
+            "Megahorn",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar",
+            "Pursuit"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Frustration",
+            "Lovely-Kiss",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Earthquake",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 113,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-354051"
+  },
+  {
+    "winner": "ABR",
+    "p1": {
+      "name": "ABR",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Raikou",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Explosion"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Heracross",
+          "moves": [
+            "Megahorn",
+            "Seismic-Toss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar",
+            "Curse",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Mean-Look",
+            "Confuse-Ray",
+            "Baton-Pass",
+            "Moonlight"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Marowak",
+          "moves": [
+            "Earthquake",
+            "Swords-Dance"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Mean-Look",
+            "Protect",
+            "Perish-Song"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Smeargle",
+          "moves": [
+            "Spore",
+            "Spider-Web",
+            "Spikes"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 121,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-356094"
+  },
+  {
+    "winner": "fuego de berenjena",
+    "p1": {
+      "name": "Jimmy Turtwig",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Sleep-Talk",
+            "Rest",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Roar",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Rest",
+            "Curse",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Surf",
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Ice-Punch",
+            "Thunderbolt"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Rest",
+            "Sleep-Talk",
+            "Surf",
+            "Growth"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "fuego de berenjena",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Roar",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Lovely-Kiss",
+            "Body-Slam",
+            "Curse",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Ice-Beam",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Toxic",
+            "Drill-Peck",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Toxic",
+            "Spikes",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Mean-Look",
+            "Perish-Song",
+            "Protect",
+            "Confuse-Ray"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 102,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-349774"
+  },
+  {
+    "winner": "giara",
+    "p1": {
+      "name": "giara",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Flamethrower",
+            "Curse",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Roar",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Surf",
+            "Spikes",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Jynx",
+          "moves": [
+            "Substitute",
+            "Psychic",
+            "Lovely-Kiss",
+            "Ice-Beam"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Curse",
+            "Earthquake",
+            "Cross-Chop"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Tiba",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Rest",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Whirlwind",
+            "Rest",
+            "Sand-Attack"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Giga-Drain",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf",
+            "Sleep-Talk",
+            "Toxic",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Mean-Look",
+            "Attract",
+            "Perish-Song",
+            "Protect"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 118,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-355908"
+  },
+  {
+    "winner": "Mr.E",
+    "p1": {
+      "name": "Mr.E",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Whirlwind",
+            "Curse",
+            "Drill-Peck",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Surf",
+            "Ice-Beam",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Lovely-Kiss",
+            "Rest",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "giara",
+      "pokes": [
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Stun-Spore",
+            "Leech-Seed",
+            "Psychic",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Rest",
+            "Sleep-Talk",
+            "Double-Edge",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Surf",
+            "Acid-Armor",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Hypnosis",
+            "Thief",
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Charm",
+            "Mean-Look",
+            "Baton-Pass",
+            "Moonlight"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 111,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-352925"
+  },
+  {
+    "winner": "Century Express",
+    "p1": {
+      "name": "Century Express",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Toxic",
+            "Rest",
+            "Roar",
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Surf",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Rapid-Spin",
+            "Giga-Drain",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Frustration",
+            "Lovely-Kiss"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Mr.E",
+      "pokes": [
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Stun-Spore",
+            "Psychic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Curse",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Surf",
+            "Growth"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Rhydon",
+          "moves": [
+            "Roar",
+            "Earthquake",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Smeargle",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 109,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-351238"
+  },
+  {
+    "winner": "Fear",
+    "p1": {
+      "name": "Jimmy Turtwig",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Hidden-Power",
+            "Thunder",
+            "Rest",
+            "Roar"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Toxic",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Drill-Peck"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Return",
+            "Lovely-Kiss",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Fear",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Thief",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge",
+            "Lovely-Kiss",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunderbolt",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Pursuit",
+            "Roar",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [],
+          "item": ""
+        }
+      ]
+    },
+    "id": 112,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-353993"
+  },
+  {
+    "winner": "Lavos",
+    "p1": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Thief",
+            "Ice-Beam",
+            "Lovely-Kiss",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Earthquake",
+            "Body-Slam",
+            "Self-Destruct"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Rest",
+            "Sleep-Talk",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Hidden-Power",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tentacruel",
+          "moves": [
+            "Swords-Dance",
+            "Substitute",
+            "Hydro-Pump",
+            "Sludge-Bomb"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "chol49",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Hidden-Power",
+            "Thunder"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Hidden-Power",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Whirlwind",
+            "Drill-Peck"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Earthquake",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Thunderbolt",
+            "Roar",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Misdreavus",
+          "moves": [
+            "Perish-Song",
+            "Protect",
+            "Mean-Look",
+            "Confuse-Ray"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 107,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-350228"
+  },
+  {
+    "winner": "Mr.E",
+    "p1": {
+      "name": "Mr.E",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Crunch"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Fire-Blast",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Whirlwind",
+            "Thunderbolt",
+            "Thunder-Wave",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Miltank",
+          "moves": [
+            "Heal-Bell",
+            "Body-Slam",
+            "Growl"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Sleep-Powder"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "LEGEND TIBA",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Toxic",
+            "Rest",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Psychic",
+            "Surf",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Toxic",
+            "Spikes",
+            "Rest",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Roar",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raichu",
+          "moves": [
+            "Thunderbolt",
+            "Rest",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [],
+          "item": ""
+        }
+      ]
+    },
+    "id": 100,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-348586"
+  },
+  {
+    "winner": "Lavos",
+    "p1": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Mean-Look",
+            "Confuse-Ray",
+            "Baton-Pass",
+            "Sand-Attack"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Substitute",
+            "Baton-Pass",
+            "Hydro-Pump"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Smeargle",
+          "moves": [
+            "Spider-Web",
+            "Agility",
+            "Spore",
+            "Baton-Pass"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Ice-Beam",
+            "Rain-Dance",
+            "Surf"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Jolteon",
+          "moves": [
+            "Baton-Pass",
+            "Growth",
+            "Thunder",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Mr. Mime",
+          "moves": [
+            "Substitute",
+            "Baton-Pass",
+            "Barrier",
+            "Encore"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Pleasure",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Sleep-Talk",
+            "Hidden-Power",
+            "Rest"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Rhydon",
+          "moves": [
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Thunder",
+            "Destiny-Bond"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Pursuit"
+          ],
+          "item": ""
+        },
+        {
+          "name": "Forretress",
+          "moves": [],
+          "item": ""
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Lovely-Kiss",
+            "Curse",
+            "Double-Edge",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 110,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-352692"
+  },
+  {
+    "winner": "Choolio Iglesias",
+    "p1": {
+      "name": "Choolio Iglesias",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Sleep-Talk",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Hidden-Power",
+            "Surf",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Curse",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Earthquake",
+            "Curse",
+            "Cross-Chop",
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Vaporeon",
+          "moves": [
+            "Growth",
+            "Surf",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "Jimmy Turtwig",
+      "pokes": [
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Toxic",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Whirlwind",
+            "Rest",
+            "Drill-Peck"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Surf",
+            "Rapid-Spin"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Lovely-Kiss"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 122,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-357109"
+  },
+  {
+    "winner": "giara",
+    "p1": {
+      "name": "Century Express",
+      "pokes": [
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Toxic"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Suicune",
+          "moves": [
+            "Toxic",
+            "Surf",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Raikou",
+          "moves": [
+            "Reflect",
+            "Thunder",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Rapid-Spin",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Drill-Peck",
+            "Curse",
+            "Whirlwind",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "giara",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Rhydon",
+          "moves": [
+            "Earthquake",
+            "Rock-Slide",
+            "Roar"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Lovely-Kiss",
+            "Rest",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Espeon",
+          "moves": [
+            "Growth",
+            "Baton-Pass"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Exeggutor",
+          "moves": [
+            "Leech-Seed",
+            "Stun-Spore",
+            "Psychic",
+            "Giga-Drain"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 119,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-357118"
+  },
+  {
+    "winner": "Lavos",
+    "p1": {
+      "name": "Lavos",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Hidden-Power",
+            "Thunder",
+            "Sleep-Talk",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Rhydon",
+          "moves": [
+            "Roar",
+            "Rock-Slide",
+            "Earthquake",
+            "Curse"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Rapid-Spin",
+            "Hidden-Power"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Meganium",
+          "moves": [
+            "Razor-Leaf",
+            "Leech-Seed"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Return",
+            "Lovely-Kiss",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Houndoom",
+          "moves": [
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "wow oat milk",
+      "pokes": [
+        {
+          "name": "Nidoking",
+          "moves": [
+            "Lovely-Kiss",
+            "Ice-Beam",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Curse",
+            "Double-Edge"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Tyranitar",
+          "moves": [
+            "Rock-Slide",
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Curse",
+            "Drill-Peck",
+            "Whirlwind"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder",
+            "Hidden-Power",
+            "Sleep-Talk",
+            "Rest"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 117,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-355844"
+  },
+  {
+    "winner": "Mr.E",
+    "p1": {
+      "name": "Mr.E",
+      "pokes": [
+        {
+          "name": "Zapdos",
+          "moves": [
+            "Thunder"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Rest",
+            "Curse",
+            "Fire-Blast"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Gengar",
+          "moves": [
+            "Hypnosis",
+            "Ice-Punch",
+            "Thunderbolt",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Steelix",
+          "moves": [
+            "Curse",
+            "Rock-Slide",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Surf",
+            "Spikes",
+            "Toxic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Machamp",
+          "moves": [
+            "Curse",
+            "Cross-Chop",
+            "Earthquake"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "coconut teat",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar",
+            "Reflect"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Charm",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Psychic",
+            "Surf"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Curse",
+            "Drill-Peck",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "id": 123,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-356382"
+  },
+  {
+    "winner": "Dairy May Cry",
+    "p1": {
+      "name": "Dairy May Cry",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar",
+            "Reflect",
+            "Thunderbolt",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Body-Slam",
+            "Earthquake",
+            "Rest",
+            "Belly-Drum"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Starmie",
+          "moves": [
+            "Rapid-Spin",
+            "Recover"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Pursuit",
+            "Charm"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Toxic",
+            "Whirlwind",
+            "Drill-Peck"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Forretress",
+          "moves": [
+            "Spikes",
+            "Toxic",
+            "Explosion"
+          ],
+          "item": "leftovers"
+        }
+      ]
+    },
+    "p2": {
+      "name": "choolio",
+      "pokes": [
+        {
+          "name": "Raikou",
+          "moves": [
+            "Roar",
+            "Hidden-Power",
+            "Thunderbolt",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Skarmory",
+          "moves": [
+            "Drill-Peck",
+            "Curse",
+            "Whirlwind",
+            "Rest"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Cloyster",
+          "moves": [
+            "Rapid-Spin",
+            "Surf",
+            "Spikes"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Snorlax",
+          "moves": [
+            "Double-Edge",
+            "Rest",
+            "Curse",
+            "Belly-Drum"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Umbreon",
+          "moves": [
+            "Toxic",
+            "Pursuit",
+            "Moonlight",
+            "Charm"
+          ],
+          "item": "leftovers"
+        },
+        {
+          "name": "Moltres",
+          "moves": [
+            "Sunny-Day",
+            "Fire-Blast",
+            "Rest",
+            "Sleep-Talk"
+          ],
+          "item": ""
+        }
+      ]
+    },
+    "id": 114,
+    "context": [
+      "SPL",
+      "9"
+    ],
+    "url": "https://replay.pokemonshowdown.com/smogtours-gen2ou-352668"
+  }
+]
