@@ -70,19 +70,19 @@ Main: Skarm_Spikes
 Zapdos Tyranitar Jirachi Flygon Suicune Salamence
 Main: Mixed_Offense
 
-56-p1
+656-p1
 Metagross Swampert Snorlax Gyarados Magneton Heracross
 Main: Physical_Mag
 
-56-p2
+656-p2
 Salamence Suicune Claydol Metagross Magneton Snorlax
 Main: Physical_Mag
 
-59-p1
+659-p1
 Metagross Gengar Snorlax Camerupt Weezing Suicune
 Main: Mixed_Offense
 
-59-p2
+659-p2
 Metagross Claydol Magneton Swampert Snorlax Salamence
 Main: Physical_Mag
 
@@ -102,11 +102,11 @@ Main: Physical_Offense
 Metagross Snorlax Tyranitar Zapdos Starmie
 Main: Mixed_Offense
 
-54-p1
+654-p1
 Jolteon Skarmory Gengar Suicune Flygon Tyranitar
 Main: Jolteon_Skarm
 
-54-p2
+654-p2
 Zapdos Heracross Dugtrio Jirachi Tyranitar
 Main: Mixed_Offense
 
@@ -118,19 +118,19 @@ Main: Special_Offense
 Suicune Snorlax Zapdos Jirachi Tyranitar Salamence
 Main: Mixed_Offense
 
-51-p1
+651-p1
 Salamence Jirachi Cloyster Suicune Tyranitar Aerodactyl
 Main: Cloyster_Spikes
 
-51-p2
+651-p2
 Suicune Smeargle Metagross Jolteon Gengar Aerodactyl
 Main: Mixed_Offense
 
-52-p1
+652-p1
 Heracross Tyranitar Dugtrio Gengar Jirachi Milotic
 Main: Mixed_Offense
 
-52-p2
+652-p2
 Metagross Zapdos Starmie Snorlax Aerodactyl Tyranitar
 Main: Mixed_Offense
 
@@ -142,27 +142,27 @@ Main: Skarm_Spikes
 Metagross Weezing Snorlax Tyranitar Salamence Jolteon
 Main: Mixed_Offense
 
-50-p1
+650-p1
 Zapdos Swampert Jirachi Tyranitar Salamence
 Main: Mixed_Offense
 
-50-p2
+650-p2
 Tyranitar Blissey Skarmory Gengar Flygon Jirachi
 Main: Skarm_Spikes
 
-57-p1
+657-p1
 Tyranitar Skarmory Gengar Celebi Aerodactyl Swampert
 Main: Skarm_Spikes
 
-57-p2
+657-p2
 Metagross Heracross Snorlax Swampert Tyranitar Zapdos
 Main: Physical_Offense
 
-55-p1
+655-p1
 Jirachi Flygon Skarmory Zapdos Tyranitar Aerodactyl
 Main: Skarm_Spikes
 
-55-p2
+655-p2
 Tyranitar Skarmory Suicune Jirachi Gengar Flygon
 Main: Skarm_Spikes
 
@@ -230,11 +230,11 @@ Main: Spikeless_Balance
 Zapdos Metagross Swampert Aerodactyl Snorlax Magneton
 Main: Physical_Mag
 
-53-p1
+653-p1
 Zapdos Claydol Blissey Tyranitar Milotic Dugtrio
 Main: Spikeless_Balance
 
-53-p2
+653-p2
 Tyranitar Cloyster Blissey Metagross Zapdos Gengar
 Main: Cloyster_Spikes
 
@@ -246,11 +246,11 @@ Main: Physical_Mag
 Zapdos Swampert Forretress Tyranitar Jirachi Gengar
 Main: Forre_Spikes
 
-58-p1
+658-p1
 Zapdos Metagross Magneton Claydol Suicune Snorlax
 Main: Spikeless_Balance
 
-58-p2
+658-p2
 Skarmory Blissey Tyranitar Swampert Salamence Gengar
 Main: Skarm_Spikes
 
