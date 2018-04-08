@@ -17,342 +17,342 @@
   },
   {
     "team": "Gengar Celebi Jirachi Porygon2 Dugtrio Suicune",
-    "label": "Main:"
+    "label": "Main: Special_Offense"
   },
   {
     "team": "Hariyama Celebi Jirachi Salamence Claydol",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Heracross Tyranitar Dugtrio Gengar Jirachi Milotic",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Jirachi Flygon Skarmory Zapdos Tyranitar Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Jolteon Skarmory Gengar Suicune Flygon Tyranitar",
-    "label": "Main:"
+    "label": "Main: Jolteon_Skarm"
   },
   {
     "team": "Machamp Snorlax Swampert Gyarados Magneton Houndoom",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Metagross Blissey Dugtrio Jirachi Skarmory Gengar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Metagross Claydol Magneton Swampert Snorlax Salamence",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Metagross Cloyster Jolteon Gengar Aerodactyl Tyranitar",
-    "label": "Main:"
+    "label": "Main: Cloyster_Spikes"
   },
   {
     "team": "Metagross Gengar Snorlax Camerupt Weezing Suicune",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Metagross Heracross Snorlax Magneton Starmie Salamence",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Metagross Heracross Snorlax Swampert Tyranitar Zapdos",
-    "label": "Main:"
+    "label": "Main: Physical_Offense"
   },
   {
     "team": "Metagross Skarmory Gengar Blissey Starmie Tyranitar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Metagross Snorlax Tyranitar Zapdos Starmie",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Metagross Swampert Snorlax Gyarados Magneton Heracross",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Metagross Weezing Snorlax Tyranitar Salamence Jolteon",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Metagross Zapdos Starmie Snorlax Aerodactyl Tyranitar",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Metagross Zapdos Tyranitar Swampert Starmie Dugtrio",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Milotic Regice Metagross Salamence Dugtrio Magneton",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Milotic Skarmory Tyranitar Celebi Donphan Magneton",
-    "label": "Main:"
+    "label": "Main: Skarm_Mag"
   },
   {
     "team": "Salamence Blissey Suicune Metagross Dugtrio Starmie",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Salamence Celebi Jirachi Tyranitar Claydol Dugtrio",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Salamence Jirachi Cloyster Suicune Tyranitar Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Cloyster_Spikes"
   },
   {
     "team": "Salamence Jolteon Tyranitar Weezing Metagross",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Salamence Metagross Swampert Magneton Porygon2 Tyranitar",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Salamence Snorlax Celebi Swampert Tyranitar Magneton",
-    "label": "Main:"
-  },
-  {
-    "team": "Salamence Snorlax Suicune Celebi Magneton Claydol",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Salamence Snorlax Tyranitar Gyarados Swampert Magneton",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Salamence Starmie Celebi Magneton Steelix Snorlax",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Salamence Suicune Claydol Metagross Magneton Snorlax",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Skarmory Blissey Starmie Gengar Tyranitar Swampert",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Skarmory Blissey Tyranitar Flygon Moltres Gengar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Skarmory Blissey Tyranitar Swampert Salamence Gengar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Skarmory Celebi Milotic Gengar Jirachi Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Snorlax Magneton Salamence Dugtrio",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Snorlax Metagross Weezing Starmie Aerodactyl Tyranitar",
-    "label": "Main:"
+    "label": "Main: Physical_Offense"
   },
   {
     "team": "Starmie Skarmory Blissey Dugtrio Celebi Magneton",
-    "label": "Main:"
+    "label": "Main: Skarm_Mag"
   },
   {
     "team": "Suicune Blissey Houndoom Gengar Donphan Skarmory",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Suicune Blissey Jirachi Dugtrio Tyranitar Claydol",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Suicune Blissey Jirachi Dugtrio Tyranitar Claydol",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Suicune Celebi Porygon2 Raikou Dugtrio Starmie",
-    "label": "Main:"
+    "label": "Main: Special_Offense"
   },
   {
     "team": "Suicune Magneton Dugtrio Celebi Zapdos Jirachi",
-    "label": "Main:"
+    "label": "Main: Special_Offense"
   },
   {
     "team": "Suicune Smeargle Metagross Jolteon Gengar Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Suicune Snorlax Zapdos Jirachi Tyranitar Salamence",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Suicune Tyranitar Aerodactyl Metagross Porygon2 Magneton",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Suicune Tyranitar Metagross Smeargle Gengar Jolteon",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Tyranitar Blissey Skarmory Gengar Flygon Jirachi",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Blissey Skarmory Starmie Swampert Gengar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Celebi Jirachi Magneton Moltres Starmie",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Tyranitar Cloyster Blissey Metagross Zapdos Gengar",
-    "label": "Main:"
+    "label": "Main: Cloyster_Spikes"
   },
   {
     "team": "Tyranitar Flygon Celebi Metagross Weezing Zapdos",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Tyranitar Gengar Skarmory Starmie Jirachi Swampert",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Gengar Starmie Skarmory Dugtrio Jirachi",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Salamence Skarmory Blissey",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Skarmory Blissey Gengar Metagross Swampert",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Skarmory Gengar Celebi Aerodactyl Swampert",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Skarmory Jolteon Gengar Flygon Zapdos",
-    "label": "Main:"
+    "label": "Main: Jolteon_Skarm"
   },
   {
     "team": "Tyranitar Skarmory Magneton Jolteon Metagross Zapdos",
-    "label": "Main:"
+    "label": "Main: Jolteon_Skarm"
   },
   {
     "team": "Tyranitar Skarmory Suicune Jirachi Gengar Flygon",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Skarmory Swampert Gengar Jolteon Flygon",
-    "label": "Main:"
+    "label": "Main: Jolteon_Skarm"
   },
   {
     "team": "Tyranitar Swampert Forretress Dugtrio Blissey Gengar",
-    "label": "Main:"
+    "label": "Main: Forre_Spikes"
   },
   {
     "team": "Tyranitar Swampert Forretress Dugtrio Gengar Blissey",
-    "label": "Main:"
+    "label": "Main: Forre_Spikes"
   },
   {
     "team": "Tyranitar Swampert Magneton Metagross Zapdos",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Tyranitar Zapdos Skarmory Gengar Dugtrio Jirachi",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Tyranitar Zapdos Snorlax Swampert Aerodactyl Salamence",
-    "label": "Main:"
+    "label": "Main: Physical_Offense"
   },
   {
     "team": "Venusaur Swampert Skarmory Magneton Tyranitar Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Skarm_Mag"
   },
   {
     "team": "Venusaur Zapdos Snorlax Moltres Metagross Swampert",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Zapdos Blissey Forretress Swampert Tyranitar Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Forre_Spikes"
   },
   {
     "team": "Zapdos Blissey Skarmory Tyranitar Swampert Gengar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Zapdos Claydol Blissey Tyranitar Milotic Dugtrio",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Zapdos Heracross Dugtrio Jirachi Tyranitar",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Zapdos Jirachi Cloyster Tyranitar Gengar Swampert",
-    "label": "Main:"
+    "label": "Main: Cloyster_Spikes"
   },
   {
     "team": "Zapdos Jirachi Tyranitar Swampert Aerodactyl Salamence",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Zapdos Metagross Jolteon Cloyster Swampert Tyranitar",
-    "label": "Main:"
+    "label": "Main: Cloyster_Spikes"
   },
   {
     "team": "Zapdos Metagross Magneton Claydol Suicune Snorlax",
-    "label": "Main:"
+    "label": "Main: Spikeless_Balance"
   },
   {
     "team": "Zapdos Metagross Salamence Tyranitar Snorlax Marowak",
-    "label": "Main:"
+    "label": "Main: Physical_Offense"
   },
   {
     "team": "Zapdos Metagross Swampert Aerodactyl Snorlax Magneton",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Zapdos Skarmory Blissey Swampert Gengar Tyranitar",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Zapdos Skarmory Gengar Tyranitar Swampert Aerodactyl",
-    "label": "Main:"
+    "label": "Main: Skarm_Spikes"
   },
   {
     "team": "Zapdos Snorlax Magneton Salamence Starmie Metagross",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
   },
   {
     "team": "Zapdos Suicune Gengar Dugtrio Jirachi Salamence",
-    "label": "Main:"
+    "label": "Main: Special_Offense"
   },
   {
     "team": "Zapdos Swampert Celebi Snorlax",
-    "label": "Main:"
+    "label": "Main: Incomplete"
   },
   {
     "team": "Zapdos Swampert Forretress Tyranitar Jirachi Gengar",
-    "label": "Main:"
+    "label": "Main: Forre_Spikes"
   },
   {
     "team": "Zapdos Swampert Jirachi Tyranitar Salamence",
-    "label": "Main:"
+    "label": "Main: Mixed_Offense"
   },
   {
     "team": "Zapdos Swampert Snorlax Tyranitar Aerodactyl Magneton",
-    "label": "Main:"
+    "label": "Main: Physical_Mag"
+  },
+  {
+    "team": "Zapdos Tyranitar Jirachi Flygon Suicune Salamence",
+    "label": "Main: Mixed_Offense"
   }
 ]

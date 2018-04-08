@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
 
-const inFile = './TempData/ADV-SPL9-teams' // add input file here
+const inFile = './old-spl9' // add input file here
 const outfile = path.resolve(__dirname, 'Sorted-SPL9')
 const jsonFile = path.resolve(__dirname, 'Sorted.json')
 
