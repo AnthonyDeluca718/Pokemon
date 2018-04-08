@@ -1080,14 +1080,6 @@
     "tag": "Spikeless_Balance"
   },
   {
-    "id": "200-p1",
-    "tag": "Physical_Offense"
-  },
-  {
-    "id": "200-p2",
-    "tag": "Skarm_Mag"
-  },
-  {
     "id": "146-p1",
     "tag": "Forre_Spikes"
   },
@@ -1192,28 +1184,12 @@
     "tag": "Mixed_Offense"
   },
   {
-    "id": "203-p1",
-    "tag": "Forre_Spikes"
-  },
-  {
-    "id": "203-p2",
-    "tag": "Skarm_Mag"
-  },
-  {
     "id": "91-p1",
     "tag": "Cloyster_Spikes"
   },
   {
     "id": "91-p2",
     "tag": "Special_Offense"
-  },
-  {
-    "id": "205-p1",
-    "tag": "Jolteon_Skarm"
-  },
-  {
-    "id": "205-p2",
-    "tag": "Spikeless_Balance"
   },
   {
     "id": "197-p1",
@@ -1264,28 +1240,12 @@
     "tag": "Forre_Spikes"
   },
   {
-    "id": "204-p1",
-    "tag": "Physical_Mag"
-  },
-  {
-    "id": "204-p2",
-    "tag": "Skarm_Mag"
-  },
-  {
     "id": "198-p1",
     "tag": "Mixed_Offense"
   },
   {
     "id": "198-p2",
     "tag": "Jolteon_Skarm"
-  },
-  {
-    "id": "201-p1",
-    "tag": "Skarm_Spikes"
-  },
-  {
-    "id": "201-p2",
-    "tag": "Forre_Spikes"
   },
   {
     "id": "175-p1",
@@ -1334,14 +1294,6 @@
   {
     "id": "172-p2",
     "tag": "Physical_Offense"
-  },
-  {
-    "id": "202-p1",
-    "tag": "Forre_Spikes"
-  },
-  {
-    "id": "202-p2",
-    "tag": "Skarm_Spikes"
   },
   {
     "id": "194-p1",
@@ -1632,30 +1584,6 @@
     "tag": "Skarm_Spikes"
   },
   {
-    "id": "202-p1",
-    "tag": "Skarm_Spikes"
-  },
-  {
-    "id": "202-p2",
-    "tag": "Cloyster_Spikes"
-  },
-  {
-    "id": "200-p1",
-    "tag": "Spikeless_Balance"
-  },
-  {
-    "id": "200-p2",
-    "tag": "Physical_Mag"
-  },
-  {
-    "id": "201-p1",
-    "tag": "Forre_Spikes"
-  },
-  {
-    "id": "201-p2",
-    "tag": "Physical_Mag"
-  },
-  {
     "id": "240-p1",
     "tag": "Mixed_Offense"
   },
@@ -1678,14 +1606,6 @@
   {
     "id": "235-p2",
     "tag": "Misc"
-  },
-  {
-    "id": "205-p1",
-    "tag": "Cloyster_Spikes"
-  },
-  {
-    "id": "205-p2",
-    "tag": "Skarm_Mag"
   },
   {
     "id": "239-p1",
@@ -2056,14 +1976,6 @@
     "tag": "Forre_Spikes"
   },
   {
-    "id": "204-p1",
-    "tag": "Forre_Spikes"
-  },
-  {
-    "id": "204-p2",
-    "tag": "Special_Offense"
-  },
-  {
     "id": "287-p1",
     "tag": "Skarm_Spikes"
   },
@@ -2286,14 +2198,6 @@
   {
     "id": "214-p2",
     "tag": "Jolteon_Skarm"
-  },
-  {
-    "id": "203-p1",
-    "tag": "Skarm_Spikes"
-  },
-  {
-    "id": "203-p2",
-    "tag": "Forre_Spikes"
   },
   {
     "id": "209-p1",
