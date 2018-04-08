@@ -1,9 +1,8 @@
-const records = require('./TempData/GSC1-records.json')
-const tags = require('./TempData/GSC1-team-tags.json')
+const records = require('./TempData/adv-full-data.json')
+const tagsArr = require('./TempData/adv-full-tags.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'gsc-mus')
-
+const outfile = path.join(__dirname, 'Output', 'newstuff-full-mus')
 
 // const groupings = {
 //   'Skarm_Mag': 'TSS',
@@ -20,13 +19,18 @@ const outfile = path.join(__dirname, 'Output', 'gsc-mus')
 //   'Incomplete': 'Ignore'
 // }
 
-
-function getTag(id) {
-  const target = tags.find(tag => tag.id === id)
-
-  // return groupings[target.tag]
-  return target.tag === 'Misc' || target.tag === 'Incomplete' ? 'Ignore' : target.tag
-}
+const tags = {}
+tagsArr.forEach(tag => {
+  const id = tag.id
+  if (tags[id]) {
+    console.log('error')
+    console.log(id)
+    console.log(tags[id])
+    console.log(tag.tag)
+  } else {
+    tags[id] = tag.tag
+  }
+})
 
 let mus = {}
 function addMu({name, data}) {
@@ -70,8 +74,8 @@ records.forEach(({p1, p2, id, url, winner}) => {
   const id1 = id + '-p1'
   const id2 = id + '-p2'
 
-  const tag1 = getTag(id1)
-  const tag2 = getTag(id2)
+  const tag1 = tags[id1]
+  const tag2 = tags[id2]
   const noSwap = tag1 < tag2
 
   const isMirror = tag1 === tag2

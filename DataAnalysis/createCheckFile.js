@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 const records = require('./TempData/adv-full-data.json')
-const outfile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams')
-const existingTags = require('./Sorted.json')
+const existingTags = require('./TempData/adv-full-tags.json')
+const outfile = path.resolve(__dirname, 'TempData', 'ADV-full-labels')
 
 let teams = []
 records.forEach((match, idx) => {
@@ -28,16 +28,6 @@ records.forEach((match, idx) => {
     pokes: pokes2,
     label: label2
   })
-})
-
-const sorted = teams.sort((a, b) => {
-  if (a.pokes < b.pokes) {
-    return -1
-  } else if (a.pokes > b.pokes) {
-    return 1
-  } else {
-    return 0
-  }
 })
 
 const format = ({id, pokes, label}) => {
