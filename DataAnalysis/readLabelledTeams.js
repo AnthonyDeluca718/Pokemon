@@ -2,8 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
 
-const inFile = './TempData/GSC1-teams' // add input file here
-const outFile = path.resolve(__dirname, 'TempData', 'GSC1-team-tags.json') //add outfile here
+const inFile = './TempData/ADV-SPL9-teams' // add input file here
+const outFile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams') //add outfile here
 
 let output = []
 let team = {
@@ -23,6 +23,7 @@ function lineHandler(line) {
   } else if (idx === 1) {
     idx += 1
   } else if (idx === 2){
+    console.log(line)
     team.tag = line.split(': ')[1].trim()
     output.push(team)
     team = {

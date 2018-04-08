@@ -2478,5 +2478,365 @@
   {
     "id": "230-p2",
     "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "8e7958f779c0bf5460f082c3414ee47fe8588dd2-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "983b7bc85e0eb957dd324eb142bb3495be7a74cc-p2",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "5de2ba1e9a71d47ed70e22cc2c6cde7ea84d7375-p1",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "6d8fdd1c85c0497ae3f8f7ed843712346634f3f3-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "22db0564e9dee7affaae8bad79071b03912d1e5b-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "e3441be73dcbc518983a0dc06cdec810e32c888f-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "49a0c6f2aa40bd7f4ef7c8cb1e42c1d40a9e1efe-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "ca238af9f9bd973068f6858275dcadae5cdd1120-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "88516ee247885977ecd96444da52650aede93a05-p1",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "eb7f3413d18dc6a4c99a3ed954f692da68b759ee-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "213e9bbbdf1ab8fbd2998231676aea3233b1cd8f-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "b36024f2643f4766d764fc2eda1927dc1f02dfdb-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "3a22bd27ece62c4c78badda3e16d07362663c2d8-p2",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "b36024f2643f4766d764fc2eda1927dc1f02dfdb-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "aede22a3ada84c8e0fdcb6e13f3887edb4bf5dfc-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "9beeff4ec1dbc2d6110cb877f41ed74fb0ec0245-p2",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "a1475499c639c50f156f3de576da180d05f9c10a-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "c127e92fd0c12adf903d736d80954b73007fc32d-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "682cc5abf3f6e3eda903ee09c5205ba1503516f2-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "6d8fdd1c85c0497ae3f8f7ed843712346634f3f3-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "49a0c6f2aa40bd7f4ef7c8cb1e42c1d40a9e1efe-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "41a80cbd3be40748a85c77b0410f0c5860940885-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "f2fd42aa2e922f06321b8d58231408f423320574-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "3a22bd27ece62c4c78badda3e16d07362663c2d8-p1",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "3d3dde3662dff003dac33d74cc0a015071bbd54b-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "410713ec2b4bfecbf29c8cda4ba171bb9748f2f4-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "e6c99195431e8775fdef9a700a8bf4d46b361dbb-p1",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "9c5643b956fc793b3f2a93dafaf90dda47a50c42-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "06eb966cff4cdf41d8ed58ea0c57e8725a8cd0e5-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "7014affb2f5e60b7eaf0be060b018f1f7fea9a58-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "9e7d2deb5febf302b85401646641e95d123bfbf3-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "7014affb2f5e60b7eaf0be060b018f1f7fea9a58-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "b6e7e51555909884dca85a1e3212e76a71150f87-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "682cc5abf3f6e3eda903ee09c5205ba1503516f2-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "02827e76c795e730454de509cfcbf3bb21bfe684-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "23dcdc08b6625c83596a438c4d0c23f26a056edd-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "c28b0aad7b9db80505ef5d3249183855f3d4a55c-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "02827e76c795e730454de509cfcbf3bb21bfe684-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "30d796a56d815a19de37a10796ae7cae4051b3a1-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "c127e92fd0c12adf903d736d80954b73007fc32d-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "9c5643b956fc793b3f2a93dafaf90dda47a50c42-p2",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "e68cb28174b189c2e02e7de7bb5227d8ea369137-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "22db0564e9dee7affaae8bad79071b03912d1e5b-p2",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "1d13f2b1e971d28994442df6bf83f1fbada2ff15-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "5ab1c801204e010c2e9f50e199a38abcf0dd8ee1-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "d6058cd5873312267a413cbb9443500227d67e8f-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "e6c99195431e8775fdef9a700a8bf4d46b361dbb-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "5ab1c801204e010c2e9f50e199a38abcf0dd8ee1-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "eb7f3413d18dc6a4c99a3ed954f692da68b759ee-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "1d13f2b1e971d28994442df6bf83f1fbada2ff15-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "f28678d7ea96cd8a86886e0a99fc3ccca33243f5-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "d6058cd5873312267a413cbb9443500227d67e8f-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "fd270a5ab318ee2bea4c260de4ff5537c5411dd0-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "a68ed37c1b2d4d1055e145717c317dff0c65ac2a-p2",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "e60fec0d9bef7ff1e838831730114d787bdaecee-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "e60fec0d9bef7ff1e838831730114d787bdaecee-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "9e7d2deb5febf302b85401646641e95d123bfbf3-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "30d796a56d815a19de37a10796ae7cae4051b3a1-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "afbac4620c04823a5d91c3b6c26651881ea7d271-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "9beeff4ec1dbc2d6110cb877f41ed74fb0ec0245-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "37f7d5102aae11d8342860952b700ffc1850d34f-p2",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "9f31de684def698b8909bdfa7429a46d1e75bb4e-p2",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "ca238af9f9bd973068f6858275dcadae5cdd1120-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "b6e7e51555909884dca85a1e3212e76a71150f87-p2",
+    "tag": "Jolteon_Skarm"
+  },
+  {
+    "id": "06eb966cff4cdf41d8ed58ea0c57e8725a8cd0e5-p2",
+    "tag": "Forre_Spikes"
+  },
+  {
+    "id": "a1475499c639c50f156f3de576da180d05f9c10a-p2",
+    "tag": "Forre_Spikes"
+  },
+  {
+    "id": "c2e89b2b284e7d953b20164e35638d48365a2067-p1",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "e3441be73dcbc518983a0dc06cdec810e32c888f-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "f2fd42aa2e922f06321b8d58231408f423320574-p2",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "9f31de684def698b8909bdfa7429a46d1e75bb4e-p1",
+    "tag": "Skarm_Mag"
+  },
+  {
+    "id": "410713ec2b4bfecbf29c8cda4ba171bb9748f2f4-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "983b7bc85e0eb957dd324eb142bb3495be7a74cc-p1",
+    "tag": "Forre_Spikes"
+  },
+  {
+    "id": "c3b30db0778748dd24284ba44304441e4ed069a5-p1",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "a68ed37c1b2d4d1055e145717c317dff0c65ac2a-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "88516ee247885977ecd96444da52650aede93a05-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "e68cb28174b189c2e02e7de7bb5227d8ea369137-p2",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "23dcdc08b6625c83596a438c4d0c23f26a056edd-p2",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "37f7d5102aae11d8342860952b700ffc1850d34f-p1",
+    "tag": "Cloyster_Spikes"
+  },
+  {
+    "id": "c28b0aad7b9db80505ef5d3249183855f3d4a55c-p1",
+    "tag": "Spikeless_Balance"
+  },
+  {
+    "id": "aede22a3ada84c8e0fdcb6e13f3887edb4bf5dfc-p1",
+    "tag": "Physical_Offense"
+  },
+  {
+    "id": "fd270a5ab318ee2bea4c260de4ff5537c5411dd0-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "41a80cbd3be40748a85c77b0410f0c5860940885-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "5de2ba1e9a71d47ed70e22cc2c6cde7ea84d7375-p2",
+    "tag": "Skarm_Spikes"
+  },
+  {
+    "id": "213e9bbbdf1ab8fbd2998231676aea3233b1cd8f-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "afbac4620c04823a5d91c3b6c26651881ea7d271-p1",
+    "tag": "Special_Offense"
+  },
+  {
+    "id": "8e7958f779c0bf5460f082c3414ee47fe8588dd2-p2",
+    "tag": "Incomplete"
+  },
+  {
+    "id": "c2e89b2b284e7d953b20164e35638d48365a2067-p2",
+    "tag": "Forre_Spikes"
+  },
+  {
+    "id": "f28678d7ea96cd8a86886e0a99fc3ccca33243f5-p1",
+    "tag": "Mixed_Offense"
+  },
+  {
+    "id": "3d3dde3662dff003dac33d74cc0a015071bbd54b-p2",
+    "tag": "Physical_Mag"
+  },
+  {
+    "id": "c3b30db0778748dd24284ba44304441e4ed069a5-p2",
+    "tag": "Mixed_Offense"
   }
 ]

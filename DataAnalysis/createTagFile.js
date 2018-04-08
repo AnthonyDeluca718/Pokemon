@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const records = require('./TempData/ADV-SPL9.json')
 const outfile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams')
-const sortedTeams = require('./Sorted.json')
+const existingTags = require('./Sorted.json')
 
 let teams = []
 records.forEach((match, idx) => {
@@ -10,8 +10,11 @@ records.forEach((match, idx) => {
   const pokes1 = match.p1.pokes.map(poke => poke.name).join(' ')
   const pokes2 = match.p2.pokes.map(poke => poke.name).join(' ')
 
-  const found1 = sortedTeams.find(pair => pair.team === pokes1)
-  const found2 = sortedTeams.find(pair => pair.team === pokes2)
+  let found1, found2
+  if (existingTags) {
+    found1 = existingTags.find(pair => pair.team === pokes1)
+    found2 = existingTags.find(pair => pair.team === pokes2)
+  }
   const label1 = found1 ? found1.label : 'Main: '
   const label2 = found2 ? found2.label : 'Main: '
 
@@ -23,7 +26,7 @@ records.forEach((match, idx) => {
   teams.push({
     id: id + "-p2",
     pokes: pokes2,
-    label: label1
+    label: label2
   })
 })
 
