@@ -4,6 +4,7 @@ const readline = require('readline')
 
 const inFile = './TempData/ADV-SPL9-teams' // add input file here
 const outfile = path.resolve(__dirname, 'Sorted-SPL9')
+const jsonFile = path.resolve(__dirname, 'Sorted.json')
 
 let output = []
 let team
@@ -49,4 +50,5 @@ lineReader.on('close', () => {
   })
 
   fs.writeFileSync(outfile, sorted.map(data => format(data)).join(''))
+  fs.writeFileSync(jsonFile, JSON.stringify(sorted, null, 2))
 })

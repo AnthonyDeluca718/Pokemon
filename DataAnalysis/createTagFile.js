@@ -2,19 +2,22 @@ const fs = require('fs')
 const path = require('path')
 const records = require('./TempData/ADV-SPL9.json')
 const outfile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams')
+const sortedTeams = require('./Sorted.json')
 
 let teams = []
-records.forEach(match => {
+records.forEach((match, idx) => {
   const id = match.id
   const pokes1 = match.p1.pokes.map(poke => poke.name).join(' ')
   const pokes2 = match.p2.pokes.map(poke => poke.name).join(' ')
   teams.push({
     id: id + "-p1",
-    pokes: pokes1
+    pokes: pokes1,
+    label: sortedTeams[idx].label
   })
   teams.push({
     id: id + "-p2",
-    pokes: pokes2
+    pokes: pokes2,
+    label: sortedTeams[idx].label
   })
 })
 
@@ -28,9 +31,11 @@ const sorted = teams.sort((a, b) => {
   }
 })
 
-const format = ({id, pokes}) => {
 
-  return id + "\n" + pokes + "\n" + "Main: " + "\n\n"
+
+const format = ({id, pokes, label}) => {
+
+  return id + "\n" + pokes + "\n" + `Main: ${label}` + "\n\n"
 }
 
 fs.writeFileSync(outfile, sorted.map(data => format(data)).join(''))
