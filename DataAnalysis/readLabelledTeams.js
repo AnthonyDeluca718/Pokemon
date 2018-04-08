@@ -2,13 +2,14 @@ const fs = require('fs')
 const path = require('path')
 const readline = require('readline')
 
-const inFile = './TempData/ADV-SPL9-teams' // add input file here
-const outFile = path.resolve(__dirname, 'TempData', 'ADV-SPL9-teams') //add outfile here
+const inFile = './TempData/ADV-patch-teams' // add input file here
+const outFile = path.resolve(__dirname, 'TempData', 'ADV-patch-teams.json') //add outfile here
 
 let output = []
 let team = {
   id: "",
-  tag: ""
+  tag: "",
+  pokes: ""
 }
 let idx = 0
 
@@ -21,14 +22,15 @@ function lineHandler(line) {
     team.id = line
     idx += 1
   } else if (idx === 1) {
+    team.pokes = line
     idx += 1
   } else if (idx === 2){
-    console.log(line)
     team.tag = line.split(': ')[1].trim()
     output.push(team)
     team = {
       id: "",
-      tag: ""
+      tag: "",
+      pokes: ""
     }
     idx = 0
   }

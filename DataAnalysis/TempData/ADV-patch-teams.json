@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2200-p1",
+    "tag": "Physical_Offense",
+    "pokes": "Heracross Tyranitar Gengar Swampert Snorlax Aerodactyl"
+  },
+  {
+    "id": "2200-p2",
+    "tag": "Skarm_Mag",
+    "pokes": "Salamence Skarmory Blissey Magneton Swampert Tyranitar"
+  },
+  {
+    "id": "2203-p1",
+    "tag": "Forre_Spikes",
+    "pokes": "Metagross Forretress Tyranitar Blissey Swampert Aerodactyl"
+  },
+  {
+    "id": "2203-p2",
+    "tag": "Skarm_Mag",
+    "pokes": "Tyranitar Skarmory Magneton Flygon Snorlax Gyarados"
+  },
+  {
+    "id": "1205-p1",
+    "tag": "Jolteon_Skarm",
+    "pokes": "Tyranitar Skarmory Jolteon Gengar Aerodactyl Swampert"
+  },
+  {
+    "id": "1205-p2",
+    "tag": "Physical_Offense",
+    "pokes": "Salamence Starmie Blissey Tyranitar Aerodactyl Swampert"
+  },
+  {
+    "id": "1204-p1",
+    "tag": "Physical_Mag",
+    "pokes": "Metagross Magneton Porygon2 Snorlax Salamence Heracross"
+  },
+  {
+    "id": "1204-p2",
+    "tag": "Skarm_Spikes",
+    "pokes": "Zapdos Skarmory Dugtrio Metagross Blissey Gengar"
+  },
+  {
+    "id": "2201-p1",
+    "tag": "Skarm_Spikes",
+    "pokes": "Skarmory Blissey Gengar Dugtrio Swampert Moltres"
+  },
+  {
+    "id": "2201-p2",
+    "tag": "Forre_Spikes",
+    "pokes": "Tyranitar Forretress Blissey Flygon Suicune Gengar"
+  },
+  {
+    "id": "1202-p1",
+    "tag": "Forre_Spikes",
+    "pokes": "Salamence Celebi Gengar Tyranitar Forretress Swampert"
+  },
+  {
+    "id": "1202-p2",
+    "tag": "Skarm_Spikes",
+    "pokes": "Zapdos Tyranitar Swampert Skarmory Gengar Dugtrio"
+  },
+  {
+    "id": "2202-p1",
+    "tag": "Skarm_Spikes",
+    "pokes": "Hariyama Starmie Blissey Skarmory Swampert Dugtrio"
+  },
+  {
+    "id": "2202-p2",
+    "tag": "Cloyster_Spikes",
+    "pokes": "Cloyster Suicune Regice Jirachi Gengar Claydol"
+  },
+  {
+    "id": "1200-p1",
+    "tag": "Spikeless_Balance",
+    "pokes": "Moltres Celebi Umbreon Donphan Tyranitar Blissey"
+  },
+  {
+    "id": "1200-p2",
+    "tag": "Physical_Mag",
+    "pokes": "Metagross Snorlax Salamence Swampert Heracross Magneton"
+  },
+  {
+    "id": "1201-p1",
+    "tag": "Forre_Spikes",
+    "pokes": "Snorlax Metagross Salamence Umbreon Forretress Starmie"
+  },
+  {
+    "id": "1201-p2",
+    "tag": "Physical_Mag",
+    "pokes": "Suicune Tyranitar Magneton Salamence Swampert Snorlax"
+  },
+  {
+    "id": "2205-p1",
+    "tag": "Cloyster_Spikes",
+    "pokes": "Snorlax Tyranitar Aerodactyl Gengar Cloyster Metagross"
+  },
+  {
+    "id": "2205-p2",
+    "tag": "Skarm_Mag",
+    "pokes": "Starmie Celebi Skarmory Dugtrio Blissey Magneton"
+  },
+  {
+    "id": "2204-p1",
+    "tag": "Forre_Spikes",
+    "pokes": "Salamence Blissey Forretress Celebi Swampert"
+  },
+  {
+    "id": "2204-p2",
+    "tag": "Special_Offense",
+    "pokes": "Suicune Porygon2 Jirachi Regice Raikou Dugtrio"
+  },
+  {
+    "id": "1203-p1",
+    "tag": "Skarm_Spikes",
+    "pokes": "Skarmory Gengar Blissey Tyranitar Starmie Swampert"
+  },
+  {
+    "id": "1203-p2",
+    "tag": "Forre_Spikes",
+    "pokes": "Forretress Snorlax Salamence Gengar Suicune Raikou"
+  }
+]
