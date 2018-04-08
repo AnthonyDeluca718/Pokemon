@@ -1,8 +1,8 @@
-const recordsArr = require('./TempData/adv-full-data.json')
-const tagsArr = require('./TempData/adv-full-tags.json')
+const recordsArr = require('./ADV-Analysis/data/adv-full-data.json')
+const tagsArr = require('./ADV-Analysis/data/adv-full-labels.json')
 const fs = require('fs')
 const path = require('path')
-const outfile = path.join(__dirname, 'Output', 'newstuff-winrate-by-tag')
+const outfile = path.join(__dirname, 'ADV-Analysis', 'data', 'winrate-by-tag')
 
 const db = {}
 recordsArr.forEach(record => {
