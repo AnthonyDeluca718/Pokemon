@@ -18,6 +18,7 @@ recordsArr.forEach(record => {
 })
 
 const tags = {}
+const pokes = {}
 tagsArr.forEach(tag => {
   const id = tag.id
   if (tags[id]) {
@@ -27,6 +28,7 @@ tagsArr.forEach(tag => {
     console.log(tag.tag)
   } else {
     tags[id] = tag.tag
+    pokes[id] = tag.pokes
   }
 })
 
@@ -66,11 +68,27 @@ recordsArr.forEach(({p1, p2, id, url, winner}) => {
   const tag1 = tags[id1]
   const tag2 = tags[id2]
 
+  // sanity check begin
   if (!tag1 || !tag2) {
     console.log('db error')
     console.log(id1)
     console.log(id2)
   }
+
+  const pokes1 = p1.pokes.map(poke => poke.name).join(' ')
+  const pokes2 = p2.pokes.map(poke => poke.name).join(' ')
+
+  if (pokes1 !== pokes[id1] || pokes2 !== pokes[id2]) {
+    console.log('Tagging Error')
+    console.log(id)
+    console.log(pokes1)
+    console.log(pokes2)
+    console.log(pokes[id1])
+    console.log(pokes[id2])
+  }
+
+
+  // sanity checks end
 
   const isMirror = tag1 === tag2
   const p1Win = winner === p1Name
